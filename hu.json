@@ -38,7 +38,7 @@
     "fa_mark_read_after_action": "β Olvasottnak jelölés művelet után",
     "fa_chats": "Csevegések",
     "fa_parse_markdown_hyperlink": "Markdown hivatkozások feldolgozása",
-    "fa_parse_markdown_hyperlink_desc": "Automatikusan kattintható hivatkozásokká alakítja a [szöveg](url) markdown szintaxist üzenetek küldésekor",
+    "fa_parse_markdown_hyperlink_desc": "Automatikusan kattintható hivatkozásokká alakítja a [text](URL) markdown szintaxist üzenetek küldésekor",
     "fa_disable_custom_chat_background": "β Egyéni csevegési háttér elrejtése",
     "fa_disable_custom_chat_background_desc": "Figyelmen kívül hagyja a más felhasználók vagy csatornák által beállított egyéni csevegési háttereket",
     "fa_hide_open_webapp_button_chatlist": "Webalkalmazás megnyitása gomb elrejtése",
