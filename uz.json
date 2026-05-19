@@ -38,7 +38,7 @@
     "fa_mark_read_after_action": "β Harakatdan keyin o'qilgan deb belgilash",
     "fa_chats": "Chatlar",
     "fa_parse_markdown_hyperlink": "Markdown giperhavolalarini tahlil qilish",
-    "fa_parse_markdown_hyperlink_desc": "Xabar yuborilganda [matn](url) ko‘rinishidagi markdown sintaksisini avtomatik ravishda bosiladigan giperhavolalarga aylantiradi",
+    "fa_parse_markdown_hyperlink_desc": "Xabar yuborilganda [text](URL) ko‘rinishidagi markdown sintaksisini avtomatik ravishda bosiladigan giperhavolalarga aylantiradi",
     "fa_disable_custom_chat_background": "β Maxsus chat fonini yashirish",
     "fa_disable_custom_chat_background_desc": "Boshqa foydalanuvchilar yoki kanallar tomonidan o'rnatilgan maxsus chat fonlarini e'tiborsiz qoldiradi",
     "fa_hide_open_webapp_button_chatlist": "Veb ilovani ochish tugmasini yashirish",
