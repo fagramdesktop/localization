@@ -38,7 +38,7 @@
     "fa_mark_read_after_action": "β アクション後に既読にする",
     "fa_chats": "チャット",
     "fa_parse_markdown_hyperlink": "Markdown ハイパーリンクを解析",
-    "fa_parse_markdown_hyperlink_desc": "メッセージ送信時に、[text](url) の Markdown 構文を自動的に解析し、クリック可能なハイパーリンクに変換します",
+    "fa_parse_markdown_hyperlink_desc": "メッセージ送信時に、[text](URL) の Markdown 構文を自動的に解析し、クリック可能なハイパーリンクに変換します",
     "fa_disable_custom_chat_background": "β カスタムチャット背景を非表示",
     "fa_disable_custom_chat_background_desc": "他のユーザーやチャンネルが設定したカスタムチャット背景を無視します",
     "fa_hide_open_webapp_button_chatlist": "ウェブアプリを開くボタンを非表示",
