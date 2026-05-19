@@ -38,7 +38,7 @@
     "fa_mark_read_after_action": "β Прочитать после действия",
     "fa_chats": "Чаты",
     "fa_parse_markdown_hyperlink": "Разбор гиперссылок Markdown",
-    "fa_parse_markdown_hyperlink_desc": "Автоматически преобразует синтаксис Markdown [текст](url) в кликабельные гиперссылки при отправке сообщений",
+    "fa_parse_markdown_hyperlink_desc": "Автоматически преобразует синтаксис Markdown [text](URL) в кликабельные гиперссылки при отправке сообщений",
     "fa_disable_custom_chat_background": "β Скрыть кастомный фон чата",
     "fa_disable_custom_chat_background_desc": "Игнорирует пользовательские фоны чата, установленные другими пользователями или каналами",
     "fa_hide_open_webapp_button_chatlist": "Скрыть кнопку открытия WebApp",
