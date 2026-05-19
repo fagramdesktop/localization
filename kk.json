@@ -38,7 +38,7 @@
     "fa_mark_read_after_action": "β Әрекеттен кейін оқылды деп белгілеу",
     "fa_chats": "Сөйлесулер",
     "fa_parse_markdown_hyperlink": "Markdown гиперсілтемелерін талдау",
-    "fa_parse_markdown_hyperlink_desc": "Хабарламаларды жіберу кезінде text\n markdown синтаксисін автоматты түрде басылатын гиперсілтемелерге айналдырады",
+    "fa_parse_markdown_hyperlink_desc": "Хабарламаларды жіберу кезінде `[text](URL)` markdown синтаксисін автоматты түрде басылатын гиперсілтемелерге түрлендіреді",
     "fa_disable_custom_chat_background": "β Реттелетін сөйлесу фонын жасыру",
     "fa_disable_custom_chat_background_desc": "Басқа пайдаланушылар немесе арналар орнатқан реттелетін сөйлесу фондарын елемейді",
     "fa_hide_open_webapp_button_chatlist": "Веб қосымшаны ашу түймесін жасыру",
