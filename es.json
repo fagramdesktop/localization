@@ -38,7 +38,7 @@
     "fa_mark_read_after_action": "β Marcar leído después de acción",
     "fa_chats": "Chats",
     "fa_parse_markdown_hyperlink": "Analizar enlaces de Markdown",
-    "fa_parse_markdown_hyperlink_desc": "Convierte automáticamente la sintaxis de Markdown [texto](url) en enlaces clicables al enviar mensajes",
+    "fa_parse_markdown_hyperlink_desc": "Convierte automáticamente la sintaxis de Markdown [text](URL) en enlaces clicables al enviar mensajes",
     "fa_disable_custom_chat_background": "β Ocultar fondo de chat personalizado",
     "fa_disable_custom_chat_background_desc": "Ignora los fondos de chat personalizados establecidos por otros usuarios o canales",
     "fa_hide_open_webapp_button_chatlist": "Ocultar botón Abrir aplicación web",
