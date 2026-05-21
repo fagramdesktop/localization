@@ -54,7 +54,7 @@
     "fa_unlimited_pinned_chats": "Unlimited pinned chats",
     "fa_unlimited_pinned_chats_desc": "Raises the local pinned chats limit to 100 and saves pinned order on this device",
     "fa_unlimited_chat_folders": "Unlimited chat folders",
-    "fa_unlimited_chat_folders_desc": "Raises the local chat folders limit to 100 on this device",
+    "fa_unlimited_chat_folders_desc": "Raises the local chat folders limit to 100. Folders beyond the server limit are stored locally on this device only",
     "fa_appearance": "Appearance",
     "fa_rounding": "Rounding: %1",
     "fa_rounding_desc": "Adjusts the corner roundness of avatars",
