@@ -140,5 +140,7 @@
     "fa_icon_pack_restart_later": "後で",
     "fa_show_fastshare_in_chats": "チャットで共有ボタンを表示",
     "fa_show_fastshare_in_chats_desc": "チャンネルだけでなく、プライベートチャットやグループのメッセージにもクイック共有アイコンを表示します",
-    "fa_share": "共有"
+    "fa_share": "共有",
+    "fa_unlimited_chat_folders": "無制限のチャットフォルダー",
+    "fa_unlimited_chat_folders_desc": "ローカルのチャットフォルダー上限を100まで引き上げます。サーバーの上限を超えたフォルダーは、このデバイス上にのみローカル保存されます"
 }
