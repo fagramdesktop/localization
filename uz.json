@@ -140,5 +140,7 @@
     "fa_icon_pack_restart_later": "Keyinroq",
     "fa_show_fastshare_in_chats": "Chatlarda Ulashish tugmasini ko'rsatish",
     "fa_show_fastshare_in_chats_desc": "Faqat kanallarda emas, shaxsiy chatlar va guruhlardagi xabarlarda tezkor ulashish belgisini ko'rsatadi",
-    "fa_share": "Ulashish"
+    "fa_share": "Ulashish",
+    "fa_unlimited_chat_folders": "Cheksiz chat papkalari",
+    "fa_unlimited_chat_folders_desc": "Mahalliy chat papkalari limitini 100 tagacha oshiradi. Server cheklovidan oshgan papkalar faqat ushbu qurilmada mahalliy tarzda saqlanadi"
 }
