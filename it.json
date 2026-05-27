@@ -73,7 +73,7 @@
     "fa_logs_dir": "Puoi trovare i log nella cartella DebugLogs accanto a FAgram",
     "fa_links": "Link",
     "fa_channel": "Canale",
-    "fa_group": "Chat",
+    "fa_group": "Chats",
     "fa_source_code": "Codice sorgente",
     "fa_production_server": "Server di produzione (Predefinito)",
     "fa_test_server": "Server di test",
@@ -140,5 +140,7 @@
     "fa_icon_pack_restart_later": "Più tardi",
     "fa_show_fastshare_in_chats": "Mostra pulsante Condividi nelle chat",
     "fa_show_fastshare_in_chats_desc": "Mostra l'icona di condivisione rapida sui messaggi nelle chat private e nei gruppi, non solo nei canali",
-    "fa_share": "Condividi"
+    "fa_share": "Condividi",
+    "fa_unlimited_chat_folders": "Cartelle di chat illimitate",
+    "fa_unlimited_chat_folders_desc": "Aumenta il limite delle cartelle chat locali a 100. Le cartelle oltre il limite del server vengono archiviate solo localmente su questo dispositivo"
 }
