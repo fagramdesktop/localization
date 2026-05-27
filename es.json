@@ -140,5 +140,7 @@
     "fa_icon_pack_restart_later": "Más tarde",
     "fa_show_fastshare_in_chats": "Mostrar botón Compartir en chats",
     "fa_show_fastshare_in_chats_desc": "Muestra el icono de compartir rápido en mensajes de chats privados y grupos, no solo en canales",
-    "fa_share": "Compartir"
+    "fa_share": "Compartir",
+    "fa_unlimited_chat_folders": "Carpetas de chat ilimitadas",
+    "fa_unlimited_chat_folders_desc": "Aumenta el límite local de carpetas de chat a 100. Las carpetas que superen el límite del servidor se almacenarán solo localmente en este dispositivo"
 }
