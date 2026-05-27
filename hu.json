@@ -140,5 +140,7 @@
     "fa_icon_pack_restart_later": "Később",
     "fa_show_fastshare_in_chats": "Megosztás gomb megjelenítése csevegésekben",
     "fa_show_fastshare_in_chats_desc": "Megjeleníti a gyors megosztás ikont az üzeneteknél privát csevegésekben és csoportokban, nem csak csatornákban",
-    "fa_share": "Megosztás"
+    "fa_share": "Megosztás",
+    "fa_unlimited_chat_folders": "Korlátlan csevegési mappák",
+    "fa_unlimited_chat_folders_desc": "100-ra növeli a helyi csevegési mappák korlátját. A szerverkorláton túli mappák csak helyben, ezen az eszközön kerülnek tárolásra"
 }
