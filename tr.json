@@ -140,5 +140,7 @@
     "fa_icon_pack_restart_later": "Daha Sonra",
     "fa_show_fastshare_in_chats": "Sohbetlerde Paylaş düğmesini göster",
     "fa_show_fastshare_in_chats_desc": "Sadece kanallarda değil, özel sohbetlerdeki ve gruplardaki mesajlarda hızlı paylaşım simgesini gösterir",
-    "fa_share": "Paylaş"
+    "fa_share": "Paylaş",
+    "fa_unlimited_chat_folders": "Sınırsız sohbet klasörleri",
+    "fa_unlimited_chat_folders_desc": "Yerel sohbet klasörü sınırını 100'e yükseltir. Sunucu sınırını aşan klasörler yalnızca bu cihazda yerel olarak saklanır"
 }
