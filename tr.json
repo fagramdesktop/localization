@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "Çıkartmalar, GIF'ler ve emojiler dahil tüm otomatik indirmeleri devre dışı bırakır",
     "fa_disable_animated_avatars": "Hareketli avatarları devre dışı bırak",
     "fa_disable_animated_avatars_desc": "Profiller ve sohbet listesi kullanıcı resimleri için döngüsel animasyonları kapatır",
+    "fa_disable_premium_animation": "Premium animasyonları devre dışı bırak",
+    "fa_disable_premium_animation_desc": "Premium kullanıcılar için özel animasyonları ve efektleri devre dışı bırakır",
     "fa_show_start_token": "Bot'ta Başlatma Jetonunu Göster",
     "fa_show_start_token_desc": "Bir bot açarken başlangıç parametresi jetonunu gösterir",
     "fa_show_peer_ids": "Eş Kimliklerini Göster",

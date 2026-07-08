@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "Minden automatikus letöltést letilt, beleértve a matricákat, a GIF-eket és az emojikat is",
     "fa_disable_animated_avatars": "Animált avatarok kikapcsolása",
     "fa_disable_animated_avatars_desc": "Kikapcsolja a profilok és a csevegőlista felhasználói képeinek ismétlődő animációit",
+    "fa_disable_premium_animation": "Prémium animációk kikapcsolása",
+    "fa_disable_premium_animation_desc": "Kikapcsolja a prémium felhasználók speciális animációit és effektusait",
     "fa_show_start_token": "Indítási token megjelenítése bot indításkor",
     "fa_show_start_token_desc": "Megjeleníti a start paraméter tokent bot megnyitásakor",
     "fa_show_peer_ids": "Partner ID megjelenítése",

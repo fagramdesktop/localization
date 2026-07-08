@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "Отключает всю автоматическую загрузку, включая загрузку стикеров, GIF и эмодзи",
     "fa_disable_animated_avatars": "Отключить анимированные аватары",
     "fa_disable_animated_avatars_desc": "Отключает воспроизведение анимированных аватаров в профилях и списке чатов",
+    "fa_disable_premium_animation": "Отключить премиум-анимации",
+    "fa_disable_premium_animation_desc": "Отключает специальные анимации и эффекты для премиум-пользователей",
     "fa_show_start_token": "Показывать стартовой токен в старте бота",
     "fa_show_start_token_desc": "Показывает токен стартового параметра при открытии бота",
     "fa_show_peer_ids": "Показывать Peer ID",

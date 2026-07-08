@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "Disables all automatic downloads, including stickers, GIFs, and emoji",
     "fa_disable_animated_avatars": "Disable animated avatars",
     "fa_disable_animated_avatars_desc": "Turns off looping animations for profiles and chat list user pictures",
+    "fa_disable_premium_animation": "Disable Premium animations",
+    "fa_disable_premium_animation_desc": "Turns off special animations and effects for premium users",
     "fa_show_start_token": "Show Start Token in Bot",
     "fa_show_start_token_desc": "Shows the start parameter token when opening a bot",
     "fa_show_peer_ids": "Show Peer IDs",

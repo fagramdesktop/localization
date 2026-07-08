@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "يعطل جميع التنزيلات التلقائية، بما في ذلك الملصقات، والصور المتحركة (GIF)، والرموز التعبيرية",
     "fa_disable_animated_avatars": "تعطيل الصور الرمزية المتحركة",
     "fa_disable_animated_avatars_desc": "يوقف تشغيل الرسوم المتحركة المتكررة للملفات الشخصية وصور المستخدمين في قائمة الدردشة",
+    "fa_disable_premium_animation": "تعطيل الرسوم المتحركة المميزة",
+    "fa_disable_premium_animation_desc": "تعطيل الرسوم المتحركة والتأثيرات الخاصة للمستخدمين المميزين",
     "fa_show_start_token": "إظهار رمز البدء في البوت",
     "fa_show_start_token_desc": "يعرض رمز معامل البدء عند فتح البوت",
     "fa_show_peer_ids": "إظهار معرّفات المستخدمين",

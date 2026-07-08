@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "Stiker, GIF va emoji jumladan barcha avtomatik yuklab olishlarni o'chiradi",
     "fa_disable_animated_avatars": "Animatsiyali avatarlarni o'chirish",
     "fa_disable_animated_avatars_desc": "Profil va chat ro'yxatidagi foydalanuvchi rasmlari uchun takrorlanuvchi animatsiyalarni o'chiradi",
+    "fa_disable_premium_animation": "Premium animatsiyalarni o'chirish",
+    "fa_disable_premium_animation_desc": "Premium foydalanuvchilar uchun maxsus animatsiya va effektlarni o'chiradi",
     "fa_show_start_token": "Bot ishga tushganda boshlash tokenini ko'rsatish",
     "fa_show_start_token_desc": "Botni ochishda boshlash parametri tokenini ko'rsatadi",
     "fa_show_peer_ids": "Sherik ID ko'rsatish",

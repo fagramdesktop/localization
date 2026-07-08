@@ -19,6 +19,8 @@
     "fa_disable_auto_download_desc": "Disattiva tutti i download automatici, inclusi sticker, GIF ed emoji",
     "fa_disable_animated_avatars": "Disattiva avatar animati",
     "fa_disable_animated_avatars_desc": "Disattiva le animazioni in loop per i profili e le immagini del profilo nella lista chat",
+    "fa_disable_premium_animation": "Disattiva animazioni Premium",
+    "fa_disable_premium_animation_desc": "Disattiva le animazioni e gli effetti speciali per gli utenti premium",
     "fa_show_start_token": "Mostra token di avvio all'avvio del bot",
     "fa_show_start_token_desc": "Mostra il token del parametro di avvio all'apertura di un bot",
     "fa_show_peer_ids": "Mostra ID peer",
