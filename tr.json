@@ -17,6 +17,8 @@
     "fa_disable_ai_desc": "Metin YZ düzenleyici ve gönderi özetleri dahil tüm YZ özelliklerini devre dışı bırakır",
     "fa_disable_auto_download": "Tüm otomatik indirmeleri devre dışı bırak",
     "fa_disable_auto_download_desc": "Çıkartmalar, GIF'ler ve emojiler dahil tüm otomatik indirmeleri devre dışı bırakır",
+    "fa_disable_animated_avatars": "Hareketli avatarları devre dışı bırak",
+    "fa_disable_animated_avatars_desc": "Profiller ve sohbet listesi kullanıcı resimleri için döngüsel animasyonları kapatır",
     "fa_show_start_token": "Bot'ta Başlatma Jetonunu Göster",
     "fa_show_start_token_desc": "Bir bot açarken başlangıç parametresi jetonunu gösterir",
     "fa_show_peer_ids": "Eş Kimliklerini Göster",

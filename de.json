@@ -17,6 +17,8 @@
     "fa_disable_ai_desc": "Deaktiviert alle KI-Funktionen, einschließlich des KI-Texteditors und der Beitragskurzzusammenfassungen",
     "fa_disable_auto_download": "Allen automatischen Download deaktivieren",
     "fa_disable_auto_download_desc": "Deaktiviert alle automatischen Downloads, einschließlich Sticker, GIFs und Emojis",
+    "fa_disable_animated_avatars": "Animierte Avatare deaktivieren",
+    "fa_disable_animated_avatars_desc": "Deaktiviert Schleifenanimationen für Profile und Chatlisten-Benutzerbilder",
     "fa_show_start_token": "Starttoken beim Bot-Start anzeigen",
     "fa_show_start_token_desc": "Zeigt das Startparameter-Token an, wenn ein Bot geöffnet wird",
     "fa_show_peer_ids": "Peer-IDs anzeigen",

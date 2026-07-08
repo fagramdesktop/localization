@@ -17,6 +17,8 @@
     "fa_disable_ai_desc": "Wyłącza wszystkie funkcje AI, w tym edytor tekstu AI i podsumowania postów",
     "fa_disable_auto_download": "Zablokuj automatyczne pobieranie",
     "fa_disable_auto_download_desc": "Wyłącza wszystkie automatyczne pobierania, w tym naklejki, GIF-y i emoji",
+    "fa_disable_animated_avatars": "Wyłącz animowane awatary",
+    "fa_disable_animated_avatars_desc": "Wyłącza zapętlone animacje dla profilów i zdjęć użytkowników na liście czatów",
     "fa_show_start_token": "Pokaż token startowy przy uruch. bota",
     "fa_show_start_token_desc": "Pokazuje token parametru startowego przy otwieraniu bota",
     "fa_show_peer_ids": "Pokaż ID partnera",

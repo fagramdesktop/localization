@@ -17,6 +17,8 @@
     "fa_disable_ai_desc": "Desativa todos os recursos de IA, incluindo o editor de texto de IA e resumos de postagens",
     "fa_disable_auto_download": "Desativar todo o download automático",
     "fa_disable_auto_download_desc": "Desativa todos os downloads automáticos, incluindo adesivos, GIFs e emoji",
+    "fa_disable_animated_avatars": "Desativar avatares animados",
+    "fa_disable_animated_avatars_desc": "Desativa as animações em loop para os perfis e as fotos da lista de chats",
     "fa_show_start_token": "Mostrar Token Iniciar em Bot",
     "fa_show_start_token_desc": "Mostra o token do parâmetro de início ao abrir um bot",
     "fa_show_peer_ids": "Mostrar IDs",
