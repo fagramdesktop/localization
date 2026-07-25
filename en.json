@@ -63,6 +63,8 @@
     "fa_delete_for_everyone_desc": "Automatically checks the \"Delete for everyone\" checkbox by default when deleting messages",
     "fa_last_seen_timestamp": "Show full timestamp after 1 hour offline",
     "fa_last_seen_timestamp_desc": "Shows exact last seen date and time when user was online more than 1 hour ago instead of relative hours",
+    "fa_show_forwarded_date_in_title": "Show date of forwarded messages in the title",
+    "fa_show_forwarded_date_in_title_desc": "Displays original message date and time in forwarded message headers",
     "fa_appearance": "Appearance",
     "fa_rounding": "Rounding: %1",
     "fa_rounding_desc": "Adjusts the corner roundness of avatars",
