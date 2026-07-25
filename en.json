@@ -61,6 +61,8 @@
     "fa_unlimited_chat_folders_desc": "Raises the local chat folders limit to 100. Folders beyond the server limit are stored locally on this device only",
     "fa_delete_for_everyone": "Checkmark \"Delete for everyone\" enabled by default",
     "fa_delete_for_everyone_desc": "Automatically checks the \"Delete for everyone\" checkbox by default when deleting messages",
+    "fa_last_seen_timestamp": "Show full timestamp after 1 hour offline",
+    "fa_last_seen_timestamp_desc": "Shows exact last seen date and time when user was online more than 1 hour ago instead of relative hours",
     "fa_appearance": "Appearance",
     "fa_rounding": "Rounding: %1",
     "fa_rounding_desc": "Adjusts the corner roundness of avatars",
