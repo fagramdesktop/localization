@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "يعرض تاريخ ووقت آخر ظهور بدقة عندما يكون المستخدم غير متصل لأكثر من ساعة بدلاً من الساعات النسبية",
     "fa_show_forwarded_date_in_title": "إظهار تاريخ الرسائل المحولة في العنوان",
     "fa_show_forwarded_date_in_title_desc": "يعرض تاريخ ووقت الرسالة الأصلي في ترويسة الرسائل المحولة",
+    "fa_disable_greeting_sticker": "تعطيل ملصق الترحيب",
+    "fa_disable_greeting_sticker_desc": "إخفاء ملصقات الترحيب والرسائل التعريفية في المحادثات الخاصة الجديدة",
     "fa_appearance": "المظهر",
     "fa_rounding": "تدوير الحواف: %1",
     "fa_rounding_desc": "يضبط درجة استدارة زوايا الصور الرمزية",

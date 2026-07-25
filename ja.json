@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "ユーザーが1時間以上前にオンラインだった場合、相対時間の代わりに正確な最終オンライン日時を表示します",
     "fa_show_forwarded_date_in_title": "転送メッセージの日時をタイトルに表示",
     "fa_show_forwarded_date_in_title_desc": "転送メッセージのヘッダーに元メッセージの日時を表示します",
+    "fa_disable_greeting_sticker": "挨拶ステッカーを無効化",
+    "fa_disable_greeting_sticker_desc": "新しい個人チャットでの挨拶ステッカーや導入メッセージを非表示にします",
     "fa_appearance": "外観",
     "fa_rounding": "丸み: %1",
     "fa_rounding_desc": "アバターの角の丸みを調整",

@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Muestra la fecha y hora exacta de última vez visto cuando el usuario estuvo desconectado más de 1 hora en lugar de horas relativas",
     "fa_show_forwarded_date_in_title": "Mostrar fecha de mensajes reenviados en el título",
     "fa_show_forwarded_date_in_title_desc": "Muestra la fecha y hora original del mensaje en el encabezado de los mensajes reenviados",
+    "fa_disable_greeting_sticker": "Desactivar stickers de bienvenida",
+    "fa_disable_greeting_sticker_desc": "Oculta los stickers de bienvenida y mensajes de introducción en chats privados nuevos",
     "fa_appearance": "Apariencia",
     "fa_rounding": "Redondeo: %1",
     "fa_rounding_desc": "Ajusta la redondez de las esquinas de los avatares",

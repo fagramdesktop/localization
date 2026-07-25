@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Megjeleníti az utolsó jelenlét pontos dátumát és idejét, ha a felhasználó több mint 1 órája volt online a relatív órák helyett",
     "fa_show_forwarded_date_in_title": "Továbbított üzenetek dátumának megjelenítése a címben",
     "fa_show_forwarded_date_in_title_desc": "Megjeleníti az eredeti üzenet dátumát és idejét a továbbított üzenetek fejlécében",
+    "fa_disable_greeting_sticker": "Üdvözlő matricák kikapcsolása",
+    "fa_disable_greeting_sticker_desc": "Elrejti az üdvözlő matricákat és bevezető üzeneteket az új privát csevegésekben",
     "fa_appearance": "Megjelenés",
     "fa_rounding": "Lekerekítés: %1",
     "fa_rounding_desc": "Beállítja az avatarok sarkainak kerekítését",

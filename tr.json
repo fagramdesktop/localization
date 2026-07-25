@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Kullanıcı 1 saatten daha uzun süre önce çevrimiçi olduğunda göreceli saatler yerine tam son görülme tarih ve saatini gösterir",
     "fa_show_forwarded_date_in_title": "İletilen mesajların tarihini başlıkta göster",
     "fa_show_forwarded_date_in_title_desc": "İletilen mesaj başlıklarında orijinal mesaj tarihini ve saatini görüntüler",
+    "fa_disable_greeting_sticker": "Karşılama Çıkartmasını Devre Dışı Bırak",
+    "fa_disable_greeting_sticker_desc": "Yeni özel sohbetlerdeki karşılama çıkartmalarını ve tanıtım mesajlarını gizler",
     "fa_appearance": "Görünüm",
     "fa_rounding": "Yuvarlama: %1",
     "fa_rounding_desc": "Avatarların köşe yuvarlaklığını ayarlar",

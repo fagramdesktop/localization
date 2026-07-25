@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "当用户离线超过 1 小时时，显示具体的最后上线日期和时间，而非相对时间",
     "fa_show_forwarded_date_in_title": "在标题中显示转发消息的日期",
     "fa_show_forwarded_date_in_title_desc": "在转发消息标头中显示原始消息的发送日期和时间",
+    "fa_disable_greeting_sticker": "禁用打招呼表情贴纸",
+    "fa_disable_greeting_sticker_desc": "在新的私聊中隐藏打招呼贴纸和引导消息",
     "fa_appearance": "外观",
     "fa_rounding": "四舍五入：%1",
     "fa_rounding_desc": "自定义头像圆角",

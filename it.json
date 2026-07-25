@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Mostra la data e l'ora esatte dell'ultimo accesso quando l'utente è stato online più di 1 ora fa invece delle ore relative",
     "fa_show_forwarded_date_in_title": "Mostra la data dei messaggi inoltrati nel titolo",
     "fa_show_forwarded_date_in_title_desc": "Mostra la data e l'ora originali del messaggio nell'intestazione dei messaggi inoltrati",
+    "fa_disable_greeting_sticker": "Disattiva gli sticker di benvenuto",
+    "fa_disable_greeting_sticker_desc": "Nasconde gli sticker di benvenuto e i messaggi introduttivi nelle nuove chat private",
     "fa_appearance": "Aspetto",
     "fa_rounding": "Arrotondamento: %1",
     "fa_rounding_desc": "Regola l'arrotondamento degli angoli degli avatar",

@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Zeigt das genaue Datum und die Uhrzeit des letzten Online-Status an, wenn der Benutzer länger als 1 Stunde offline war, anstelle relativer Stunden",
     "fa_show_forwarded_date_in_title": "Datum weitergeleiteter Nachrichten im Titel anzeigen",
     "fa_show_forwarded_date_in_title_desc": "Zeigt das ursprüngliche Nachrichtendatum und die Uhrzeit in der Kopfzeile weitergeleiteter Nachrichten an",
+    "fa_disable_greeting_sticker": "Begrüßungs-Sticker deaktivieren",
+    "fa_disable_greeting_sticker_desc": "Blendet Begrüßungs-Sticker und Einführungstexte in neuen privaten Chats aus",
     "fa_appearance": "Aussehen",
     "fa_rounding": "Rundung: %1",
     "fa_rounding_desc": "Passt die Rundung der Ecken von Avataren an",

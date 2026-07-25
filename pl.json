@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Pokazuje dokładną datę i godzinę ostatniej aktywności, gdy użytkownik był online ponad 1 godzinę temu, zamiast godzin względnych",
     "fa_show_forwarded_date_in_title": "Pokaż datę przekazanych wiadomości w tytule",
     "fa_show_forwarded_date_in_title_desc": "Wyświetla oryginalną datę i godzinę wiadomości w nagłówku przekazanych wiadomości",
+    "fa_disable_greeting_sticker": "Wyłącz naklejki powitalne",
+    "fa_disable_greeting_sticker_desc": "Ukrywa naklejki powitalne i wiadomości wprowadzające w nowych czatach prywatnych",
     "fa_appearance": "Wygląd",
     "fa_rounding": "Zaokrąglenie: %1",
     "fa_rounding_desc": "Dostosowuje zaokrąglenie rogów awatarów",

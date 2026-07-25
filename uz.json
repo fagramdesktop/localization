@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Foydalanuvchi 1 soatdan ko'proq vaqt oldin tarmoqda bo'lganida nisbiy soatlar o'rniga aniq oxirgi kirgan sana va vaqtini ko'rsatadi",
     "fa_show_forwarded_date_in_title": "Uzatilgan xabarlar sanasini sarlavhada ko'rsatish",
     "fa_show_forwarded_date_in_title_desc": "Uzatilgan xabarlar sarlavhasida asl xabarning sanasi va vaqtini ko'rsatadi",
+    "fa_disable_greeting_sticker": "Salomlashuv stikerini o'chirish",
+    "fa_disable_greeting_sticker_desc": "Yangi shaxsiy chatlardagi salomlashuv stikerlari va kirish xabarlarini yashiradi",
     "fa_appearance": "Tashqi ko'rinish",
     "fa_rounding": "Yumaloqlash: %1",
     "fa_rounding_desc": "Avatarlar burchaklarini yumaloqlashni sozlaydi",

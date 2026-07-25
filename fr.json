@@ -65,6 +65,8 @@
     "fa_last_seen_timestamp_desc": "Affiche la date et l'heure exactes de dernière présence lorsque l'utilisateur est hors ligne depuis plus d'une heure au lieu d'heures relatives",
     "fa_show_forwarded_date_in_title": "Afficher la date des messages transférés dans le titre",
     "fa_show_forwarded_date_in_title_desc": "Affiche la date et l'heure d'origine du message dans l'en-tête des messages transférés",
+    "fa_disable_greeting_sticker": "Désactiver les stickers de bienvenue",
+    "fa_disable_greeting_sticker_desc": "Masque les stickers de bienvenue et les messages d'introduction dans les nouveaux échanges privés",
     "fa_appearance": "Apparence",
     "fa_rounding": "Arrondi : %1",
     "fa_rounding_desc": "Ajuste l’arrondi des coins des avatars",
