@@ -59,6 +59,12 @@
     "fa_unlimited_pinned_chats_desc": "Aumenta o limite de conversas fixadas locais para 100 e salva a ordem das conversas fixadas neste dispositivo",
     "fa_unlimited_chat_folders": "Pastas de chat ilimitadas",
     "fa_unlimited_chat_folders_desc": "Aumenta o limite local de pastas de chat para 100. Pastas além do limite do servidor são armazenadas apenas localmente neste dispositivo",
+    "fa_delete_for_everyone": "Ativar \"Apagar para todos\" por predefinição",
+    "fa_delete_for_everyone_desc": "Marca automaticamente a caixa de seleção \"Apagar para todos\" por predefinição ao apagar mensagens",
+    "fa_last_seen_timestamp": "Mostrar carimbo de data/hora completo após 1 hora offline",
+    "fa_last_seen_timestamp_desc": "Mostra a data e hora exatas do visto por último quando o usuário esteve online há mais de 1 hora em vez de horas relativas",
+    "fa_show_forwarded_date_in_title": "Mostrar data de mensagens encaminhadas no título",
+    "fa_show_forwarded_date_in_title_desc": "Exibe a data e hora originais da mensagem nos cabeçalhos de mensagens encaminhadas",
     "fa_appearance": "Aparência",
     "fa_rounding": "Arredondamento: %1",
     "fa_rounding_desc": "Ajusta a arredondamento de canto de avatares",
@@ -131,8 +137,8 @@
     "fa_hide_folder_tabs_titles_desc": "Oculta os títulos sob os ícones de pasta na barra lateral, exibindo apenas os ícones",
     "fa_use_tdesktop_themes": "Usar temas padrão do TDesktop",
     "fa_use_tdesktop_themes_desc": "Substitui os temas Material You (Dia/Tintado) pelos temas originais do Telegram Desktop (Azul Dia/Noite)",
-    "fa_use_material_icon_pack_desc": "Substitui os ícones padrão pelos ícones do Material Design. Requer reinicialização.",
     "fa_use_material_icon_pack": "Usar ícones do Material Design",
+    "fa_use_material_icon_pack_desc": "Substitui os ícones padrão pelos ícones do Material Design. Requer reinicialização.",
     "fa_icon_pack_restart_prompt": "Reiniciar para aplicar as alterações?",
     "fa_icon_pack_restart_now": "Reiniciar agora",
     "fa_icon_pack_restart_later": "Mais tarde",
@@ -146,7 +152,5 @@
     "fa_reply_in_private_chat": "Responder em Chat Privado",
     "fa_show_fastshare_in_chats": "Mostrar botão Compartilhar em Chats",
     "fa_show_fastshare_in_chats_desc": "Exibe o ícone de compartilhamento rápido em mensagens em chats e grupos privados, não apenas canais",
-    "fa_share": "Compartilhar",
-    "fa_delete_for_everyone": "Ativar \"Apagar para todos\" por predefinição",
-    "fa_delete_for_everyone_desc": "Marca automaticamente a caixa de seleção \"Apagar para todos\" por predefinição ao apagar mensagens"
+    "fa_share": "Compartilhar"
 }
