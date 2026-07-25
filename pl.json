@@ -146,5 +146,7 @@
     "fa_show_fastshare_in_chats_desc": "Wyświetla ikonę szybkiego udostępniania na wiadomościach w czatach prywatnych i grupach, nie tylko w kanałach",
     "fa_share": "Udostępnij",
     "fa_unlimited_chat_folders": "Nieograniczona liczba folderów czatu",
-    "fa_unlimited_chat_folders_desc": "Podnosi limit lokalnych folderów czatu do 100. Foldery poza limitem serwera są przechowywane lokalnie tylko na tym urządzeniu"
+    "fa_unlimited_chat_folders_desc": "Podnosi limit lokalnych folderów czatu do 100. Foldery poza limitem serwera są przechowywane lokalnie tylko na tym urządzeniu",
+    "fa_delete_for_everyone": "Domyślnie zaznacz \"Usuń u wszystkich\"",
+    "fa_delete_for_everyone_desc": "Automatycznie zaznacza domyślnie pole wyboru \"Usuń u wszystkich\" podczas usuwania wiadomości"
 }

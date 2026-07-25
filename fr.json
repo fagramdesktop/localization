@@ -146,5 +146,7 @@
     "fa_show_fastshare_in_chats_desc": "Affiche l'icône de partage rapide sur les messages dans les discussions privées et les groupes, pas seulement dans les chaînes",
     "fa_share": "Partager",
     "fa_unlimited_chat_folders": "Dossiers de discussion illimités",
-    "fa_unlimited_chat_folders_desc": "Augmente la limite locale des dossiers de discussion à 100. Les dossiers au-delà de la limite du serveur sont stockés localement uniquement sur cet appareil"
+    "fa_unlimited_chat_folders_desc": "Augmente la limite locale des dossiers de discussion à 100. Les dossiers au-delà de la limite du serveur sont stockés localement uniquement sur cet appareil",
+    "fa_delete_for_everyone": "Cocher \"Supprimer pour tous\" par défaut",
+    "fa_delete_for_everyone_desc": "Coche automatiquement la case \"Supprimer pour tous\" par défaut lors de la suppression de messages"
 }

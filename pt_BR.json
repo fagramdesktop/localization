@@ -146,5 +146,7 @@
     "fa_reply_in_private_chat": "Responder em Chat Privado",
     "fa_show_fastshare_in_chats": "Mostrar botão Compartilhar em Chats",
     "fa_show_fastshare_in_chats_desc": "Exibe o ícone de compartilhamento rápido em mensagens em chats e grupos privados, não apenas canais",
-    "fa_share": "Compartilhar"
+    "fa_share": "Compartilhar",
+    "fa_delete_for_everyone": "Ativar \"Apagar para todos\" por predefinição",
+    "fa_delete_for_everyone_desc": "Marca automaticamente a caixa de seleção \"Apagar para todos\" por predefinição ao apagar mensagens"
 }

@@ -146,5 +146,7 @@
     "fa_show_fastshare_in_chats_desc": "Mostra l'icona di condivisione rapida sui messaggi nelle chat private e nei gruppi, non solo nei canali",
     "fa_share": "Condividi",
     "fa_unlimited_chat_folders": "Cartelle di chat illimitate",
-    "fa_unlimited_chat_folders_desc": "Aumenta il limite delle cartelle chat locali a 100. Le cartelle oltre il limite del server vengono archiviate solo localmente su questo dispositivo"
+    "fa_unlimited_chat_folders_desc": "Aumenta il limite delle cartelle chat locali a 100. Le cartelle oltre il limite del server vengono archiviate solo localmente su questo dispositivo",
+    "fa_delete_for_everyone": "Seleziona \"Elimina per tutti\" per impostazione predefinita",
+    "fa_delete_for_everyone_desc": "Seleziona automaticamente la casella \"Elimina per tutti\" per impostazione predefinita durante l'eliminazione dei messaggi"
 }

@@ -59,6 +59,8 @@
     "fa_unlimited_pinned_chats_desc": "本地置顶聊天限制提升至 100，并在本设备保存置顶排序",
     "fa_unlimited_chat_folders": "无限制对话文件夹",
     "fa_unlimited_chat_folders_desc": "将本地聊天文件夹限制提升至 100，超过服务端限制的文件夹仅存储在本设备",
+    "fa_delete_for_everyone": "默认勾选“为所有人删除”",
+    "fa_delete_for_everyone_desc": "在删除消息时默认自动勾选“为所有人删除”复选框",
     "fa_appearance": "外观",
     "fa_rounding": "四舍五入：%1",
     "fa_rounding_desc": "自定义头像圆角",

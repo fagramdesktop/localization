@@ -139,6 +139,8 @@
     "fa_parse_markdown_hyperlink_desc": "Converte automaticamente a sintaxe Markdown [texto](URL) em hiperligações clicáveis ao enviar mensagens",
     "fa_unlimited_chat_folders": "Pastas de chat ilimitadas",
     "fa_unlimited_chat_folders_desc": "Aumenta o limite das pastas de chat locais para 100. Pastas além do limite do servidor são apenas armazenadas localmente neste dispositivo",
+    "fa_delete_for_everyone": "Ativar \"Apagar para todos\" por predefinição",
+    "fa_delete_for_everyone_desc": "Marca automaticamente a caixa de seleção \"Apagar para todos\" por predefinição ao apagar mensagens",
     "fa_debug_logs": "Logs",
     "fa_debug_logs_on": "Logs ativados!",
     "fa_debug_logs_off": "Logs desativados",

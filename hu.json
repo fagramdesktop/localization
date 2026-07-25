@@ -146,5 +146,7 @@
     "fa_show_fastshare_in_chats_desc": "Megjeleníti a gyors megosztás ikont az üzeneteknél privát csevegésekben és csoportokban, nem csak csatornákban",
     "fa_share": "Megosztás",
     "fa_unlimited_chat_folders": "Korlátlan csevegési mappák",
-    "fa_unlimited_chat_folders_desc": "100-ra növeli a helyi csevegési mappák korlátját. A szerverkorláton túli mappák csak helyben, ezen az eszközön kerülnek tárolásra"
+    "fa_unlimited_chat_folders_desc": "100-ra növeli a helyi csevegési mappák korlátját. A szerverkorláton túli mappák csak helyben, ezen az eszközön kerülnek tárolásra",
+    "fa_delete_for_everyone": "\"Törlés mindenkinek\" alapértelmezés szerint bejelölve",
+    "fa_delete_for_everyone_desc": "Üzenetek törlésekor alapértelmezés szerint automatikusan bejelöli a \"Törlés mindenkinek\" jelölőnégyzetet"
 }

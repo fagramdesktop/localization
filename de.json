@@ -146,5 +146,7 @@
     "fa_show_fastshare_in_chats_desc": "Zeigt das Schnellteilen-Symbol bei Nachrichten in privaten Chats und Gruppen an, nicht nur in Kanälen",
     "fa_share": "Teilen",
     "fa_unlimited_chat_folders": "Unbegrenzte Chat-Ordner",
-    "fa_unlimited_chat_folders_desc": "Erhöht das Limit für lokale Chat-Ordner auf 100. Ordner, die das Server-Limit überschreiten, werden nur lokal auf diesem Gerät gespeichert"
+    "fa_unlimited_chat_folders_desc": "Erhöht das Limit für lokale Chat-Ordner auf 100. Ordner, die das Server-Limit überschreiten, werden nur lokal auf diesem Gerät gespeichert",
+    "fa_delete_for_everyone": "\"Für alle löschen\" standardmäßig aktiviert",
+    "fa_delete_for_everyone_desc": "Aktiviert beim Löschen von Nachrichten automatisch standardmäßig das Kontrollkästchen \"Für alle löschen\""
 }
