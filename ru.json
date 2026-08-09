@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Ответить в личном чате",
     "fa_show_fastshare_in_chats": "Показывать кнопку Поделиться в чатах",
     "fa_show_fastshare_in_chats_desc": "Отображает значок быстрого шаринга на сообщениях в личных чатах и группах, а не только в каналах",
-    "fa_share": "Поделиться"
+    "fa_share": "Поделиться",
+    "fa_translation_provider": "Провайдер перевода",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Яндекс",
+    "fa_translate_native": "Нативный"
 }

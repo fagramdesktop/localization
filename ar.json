@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "الرد في دردشة خاصة",
     "fa_show_fastshare_in_chats": "إظهار زر المشاركة في الدردشات",
     "fa_show_fastshare_in_chats_desc": "عرض أيقونة المشاركة السريعة في الرسائل داخل الدردشات والمجموعات",
-    "fa_share": "مشاركة"
+    "fa_share": "مشاركة",
+    "fa_translation_provider": "موفّر الترجمة",
+    "fa_translate_telegram": "تيليغرام",
+    "fa_translate_google": "جوجل",
+    "fa_translate_yandex": "ياندكس",
+    "fa_translate_native": "أصلي"
 }

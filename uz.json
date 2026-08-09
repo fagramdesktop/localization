@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Shaxsiy chatda javob berish",
     "fa_show_fastshare_in_chats": "Chatlarda Ulashish tugmasini ko'rsatish",
     "fa_show_fastshare_in_chats_desc": "Faqat kanallarda emas, shaxsiy chatlar va guruhlardagi xabarlarda tezkor ulashish belgisini ko'rsatadi",
-    "fa_share": "Ulashish"
+    "fa_share": "Ulashish",
+    "fa_translation_provider": "Tarjima provayderi",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Nativ"
 }

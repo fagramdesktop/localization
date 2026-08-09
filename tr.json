@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Özel Sohbette Yanıtla",
     "fa_show_fastshare_in_chats": "Sohbetlerde Paylaş düğmesini göster",
     "fa_show_fastshare_in_chats_desc": "Sadece kanallarda değil, özel sohbetlerdeki ve gruplardaki mesajlarda hızlı paylaşım simgesini gösterir",
-    "fa_share": "Paylaş"
+    "fa_share": "Paylaş",
+    "fa_translation_provider": "Çeviri Sağlayıcısı",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Yerleşik"
 }

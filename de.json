@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Im privaten Chat antworten",
     "fa_show_fastshare_in_chats": "Teilen-Schaltfläche in Chats anzeigen",
     "fa_show_fastshare_in_chats_desc": "Zeigt das Schnellteilen-Symbol bei Nachrichten in privaten Chats und Gruppen an, nicht nur in Kanälen",
-    "fa_share": "Teilen"
+    "fa_share": "Teilen",
+    "fa_translation_provider": "Übersetzungsanbieter",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Nativ"
 }

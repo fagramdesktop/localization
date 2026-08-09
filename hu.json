@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Válasz privát csevegésben",
     "fa_show_fastshare_in_chats": "Megosztás gomb megjelenítése csevegésekben",
     "fa_show_fastshare_in_chats_desc": "Megjeleníti a gyors megosztás ikont az üzeneteknél privát csevegésekben és csoportokban, nem csak csatornákban",
-    "fa_share": "Megosztás"
+    "fa_share": "Megosztás",
+    "fa_translation_provider": "Fordítási szolgáltató",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Natív"
 }

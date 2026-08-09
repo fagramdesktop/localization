@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Rispondi in chat privata",
     "fa_show_fastshare_in_chats": "Mostra pulsante Condividi nelle chat",
     "fa_show_fastshare_in_chats_desc": "Mostra l'icona di condivisione rapida sui messaggi nelle chat private e nei gruppi, non solo nei canali",
-    "fa_share": "Condividi"
+    "fa_share": "Condividi",
+    "fa_translation_provider": "Fornitore di traduzione",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Nativo"
 }

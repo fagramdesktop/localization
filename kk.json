@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Жеке чатта жауап беру",
     "fa_show_fastshare_in_chats": "Чаттарда бөлісу түймесін көрсету",
     "fa_show_fastshare_in_chats_desc": "Тек арналарда ғана емес, жеке чаттар мен топтардағы хабарламаларда жылдам бөлісу белгішесін көрсетеді",
-    "fa_share": "Бөлісу"
+    "fa_share": "Бөлісу",
+    "fa_translation_provider": "Аударма провайдері",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Нативті"
 }

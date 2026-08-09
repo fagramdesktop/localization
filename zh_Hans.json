@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "私聊回复",
     "fa_show_fastshare_in_chats": "在聊天中显示分享按钮",
     "fa_show_fastshare_in_chats_desc": "在私聊和群组的消息旁也显示快速分享图标（不限于频道）",
-    "fa_share": "分享"
+    "fa_share": "分享",
+    "fa_translation_provider": "翻译提供商",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "原生"
 }

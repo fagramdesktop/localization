@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "Відповісти в приватному чаті",
     "fa_show_fastshare_in_chats": "Показувати кнопку Поділитися в чатах",
     "fa_show_fastshare_in_chats_desc": "Відображає значок швидкого поширення на повідомленнях у приватних чатах та групах, а не лише в каналах",
-    "fa_share": "Поділитися"
+    "fa_share": "Поділитися",
+    "fa_translation_provider": "Провайдер перекладу",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "Нативний"
 }

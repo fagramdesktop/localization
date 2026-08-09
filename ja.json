@@ -152,5 +152,10 @@
     "fa_reply_in_private_chat": "プライベートチャットで返信",
     "fa_show_fastshare_in_chats": "チャットで共有ボタンを表示",
     "fa_show_fastshare_in_chats_desc": "チャンネルだけでなく、プライベートチャットやグループのメッセージにもクイック共有アイコンを表示します",
-    "fa_share": "共有"
+    "fa_share": "共有",
+    "fa_translation_provider": "翻訳プロバイダー",
+    "fa_translate_telegram": "Telegram",
+    "fa_translate_google": "Google",
+    "fa_translate_yandex": "Yandex",
+    "fa_translate_native": "ネイティブ"
 }
