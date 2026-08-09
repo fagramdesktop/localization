@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "圆角半径：%1 像素",
     "fa_shortcut_customization_desc": "自定义右键菜单快捷按钮外观",
     "fa_reset_to_default": "恢复默认设置",
-    "fa_hide_folder_tabs_titles": "隐藏文件夹标签名称",
-    "fa_hide_folder_tabs_titles_desc": "隐藏侧边栏分组图标下方的文字，仅显示图标",
     "fa_use_tdesktop_themes": "使用默认 Telegram 桌面端主题",
     "fa_use_tdesktop_themes_desc": "将 Material You 主题（日间/配色）替换为 Telegram 桌面端原生主题（经典蓝/夜间）",
     "fa_use_material_icon_pack": "使用 Material 图标",

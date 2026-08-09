@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "Скругление углов: %1px",
     "fa_shortcut_customization_desc": "Настройте внешний вид кнопок быстрых действий в контекстном меню",
     "fa_reset_to_default": "Сбросить по умолчанию",
-    "fa_hide_folder_tabs_titles": "Скрыть названия вкладок папок",
-    "fa_hide_folder_tabs_titles_desc": "Скрывает текстовые надписи под значками папок в боковой панели, показывая только значки",
     "fa_use_tdesktop_themes": "Использовать стандартные темы TDesktop",
     "fa_use_tdesktop_themes_desc": "Заменяет темы Material You (Светлая/Цветная) на оригинальные темы Telegram Desktop (Дневная/Ночная)",
     "fa_use_material_icon_pack": "Использовать Material Icons",

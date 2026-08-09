@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "Radio de esquina: %1px",
     "fa_shortcut_customization_desc": "Personaliza la apariencia de los botones de acceso directo del menú contextual",
     "fa_reset_to_default": "Restablecer por defecto",
-    "fa_hide_folder_tabs_titles": "Ocultar títulos de pestañas de carpetas",
-    "fa_hide_folder_tabs_titles_desc": "Oculta las etiquetas de texto bajo los iconos de carpetas en la barra lateral, mostrando solo los iconos",
     "fa_use_tdesktop_themes": "Usar temas originales de TDesktop",
     "fa_use_tdesktop_themes_desc": "Reemplaza los temas Material You (Día/Tintado) con los temas originales de Telegram Desktop (Día Azul/Noche)",
     "fa_use_material_icon_pack": "Usar Material Icons",

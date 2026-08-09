@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "Raio de canto: %1px",
     "fa_shortcut_customization_desc": "Personalizar a aparência de botões de atalho de menu de contexto",
     "fa_reset_to_default": "Restaurar para as configurações padrão",
-    "fa_hide_folder_tabs_titles": "Ocultar títulos da pastas",
-    "fa_hide_folder_tabs_titles_desc": "Oculta os títulos sob os ícones de pasta na barra lateral, exibindo apenas os ícones",
     "fa_use_tdesktop_themes": "Usar temas padrão do TDesktop",
     "fa_use_tdesktop_themes_desc": "Substitui os temas Material You (Dia/Tintado) pelos temas originais do Telegram Desktop (Azul Dia/Noite)",
     "fa_use_material_icon_pack": "Usar ícones do Material Design",

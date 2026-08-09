@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "Burchak radiusi: %1px",
     "fa_shortcut_customization_desc": "Kontekst menyusidagi yorliq tugmalarining ko'rinishini moslashtiring",
     "fa_reset_to_default": "Standart holatga qaytarish",
-    "fa_hide_folder_tabs_titles": "Papka yorliqlari nomlarini yashirish",
-    "fa_hide_folder_tabs_titles_desc": "Yon panelda papka piktogrammalari ostidagi matnli yorliqlarni yashiradi va faqat piktogrammalarni ko'rsatadi",
     "fa_use_tdesktop_themes": "TDesktop standart mavzularidan foydalanish",
     "fa_use_tdesktop_themes_desc": "Material You (Kunduzgi/Rangli) mavzularini Telegram Desktop'ning original (Day Blue/Night) mavzulariga almashtiradi",
     "fa_use_material_icon_pack": "Material Icons dan foydalanish",

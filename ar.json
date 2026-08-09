@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "نصف قطر الزوايا: %1px",
     "fa_shortcut_customization_desc": "تخصيص مظهر أزرار الاختصارات",
     "fa_reset_to_default": "إعادة إلى الافتراضي",
-    "fa_hide_folder_tabs_titles": "إخفاء عناوين تبويبات المجلدات",
-    "fa_hide_folder_tabs_titles_desc": "إخفاء النصوص أسفل أيقونات المجلدات ويعرض الأيقونات فقط",
     "fa_use_tdesktop_themes": "استخدام ثيمات تيليغرام الافتراضية",
     "fa_use_tdesktop_themes_desc": "استبدال ثيمات Material You بثيمات تيليغرام الأصلية",
     "fa_use_material_icon_pack": "استخدام أيقونات Material",

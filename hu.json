@@ -135,8 +135,6 @@
     "fa_shortcut_corner_radius": "Sarok lekerekítés: %1px",
     "fa_shortcut_customization_desc": "A helyi menü gyorsbillentyű gombjainak megjelenésének testreszabása",
     "fa_reset_to_default": "Visszaállítás alapértelmezettre",
-    "fa_hide_folder_tabs_titles": "Mappalapok címeinek elrejtése",
-    "fa_hide_folder_tabs_titles_desc": "Elrejti a mappalapok szöveges címkéit az oldalsávon, csak az ikonokat mutatva",
     "fa_use_tdesktop_themes": "Alapértelmezett TDesktop témák használata",
     "fa_use_tdesktop_themes_desc": "Lecseréli a Material You témákat (Nappali/Színezett) az eredeti Telegram Desktop témákra (Nappali kék/Éjszakai)",
     "fa_use_material_icon_pack": "Material Icons használata",
