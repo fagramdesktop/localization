@@ -37,6 +37,8 @@
     "fa_screenshot_mode_desc": "Wrażliwe informacje, takie jak nazwy i awatary, są losowo zastępowane tekstem i liczbami dla prywatności podczas robienia zrzutów ekranu",
     "fa_hide_stories": "Ukryj relacje",
     "fa_hide_stories_desc": "Ukrywa sekcję relacji",
+    "fa_hide_archived_stories": "Ukryj zarchiwizowane relacje",
+    "fa_hide_archived_stories_desc": "Ukrywa sekcję relacji w zarchiwizowanych czatach",
     "fa_local_tg_premium": "Lokalny Telegram Premium",
     "fa_local_tg_premium_desc": "Włącza niektóre wizualne funkcje premium lokalnie bez rzeczywistej subskrypcji",
     "fa_mark_read_after_action": "β Oznacz jako przeczytane po akcji",

@@ -37,6 +37,8 @@
     "fa_screenshot_mode_desc": "截图时将姓名和头像等敏感信息替换为随机文本和数字，以保护隐私",
     "fa_hide_stories": "隐藏动态",
     "fa_hide_stories_desc": "隐藏动态栏",
+    "fa_hide_archived_stories": "隐藏已归档的快拍",
+    "fa_hide_archived_stories_desc": "隐藏已归档聊天中的快拍部分",
     "fa_local_tg_premium": "本地 Telegram Premium",
     "fa_local_tg_premium_desc": "在无需实际订阅的情况下，在本地开启部分 Premium 视觉功能",
     "fa_mark_read_after_action": "β 操作后标记已读",

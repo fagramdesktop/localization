@@ -37,6 +37,8 @@
     "fa_screenshot_mode_desc": "Az érzékeny adatok, mint a nevek és avatarok, véletlenszerű szöveggel és számokkal lesznek helyettesítve képernyőfotó készítésekor",
     "fa_hide_stories": "Történetek elrejtése",
     "fa_hide_stories_desc": "Elrejti a történetek szekciót",
+    "fa_hide_archived_stories": "Archivált történetek elrejtése",
+    "fa_hide_archived_stories_desc": "Elrejti a történetek részt az archivált csevegésekben",
     "fa_local_tg_premium": "Helyi Telegram Premium",
     "fa_local_tg_premium_desc": "Engedélyez néhány prémium vizuális funkciót helyileg, valódi előfizetés nélkül",
     "fa_mark_read_after_action": "β Olvasottnak jelölés művelet után",

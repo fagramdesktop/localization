@@ -37,6 +37,8 @@
     "fa_screenshot_mode_desc": "Skrinshot olishda maxfiylik uchun ismlar va avatarlar kabi nozik ma'lumotlar matn va raqamlar bilan almashtiriladi",
     "fa_hide_stories": "Hikoyalarni yashirish",
     "fa_hide_stories_desc": "Hikoyalar bo'limini yashiradi",
+    "fa_hide_archived_stories": "Arxivlangan hikoyalarni yashirish",
+    "fa_hide_archived_stories_desc": "Arxivlangan chatlarda hikoyalar bo'limini yashiradi",
     "fa_local_tg_premium": "Mahalliy Telegram Premium",
     "fa_local_tg_premium_desc": "Haqiqiy obunasiz ba'zi premium vizual xususiyatlarni mahalliy ravishda yoqadi",
     "fa_mark_read_after_action": "β Harakatdan keyin o'qilgan deb belgilash",

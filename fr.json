@@ -37,6 +37,8 @@
     "fa_screenshot_mode_desc": "Les informations sensibles comme les noms et les avatars sont remplacées aléatoirement par des textes et des chiffres pour préserver la confidentialité lors des captures d’écran",
     "fa_hide_stories": "Masquer les Stories",
     "fa_hide_stories_desc": "Masque la section Stories",
+    "fa_hide_archived_stories": "Masquer les stories archivées",
+    "fa_hide_archived_stories_desc": "Masque la section des stories dans les échanges archivés",
     "fa_local_tg_premium": "Telegram Premium local",
     "fa_local_tg_premium_desc": "Active localement certaines fonctionnalités visuelles Premium sans abonnement",
     "fa_mark_read_after_action": "β Marquer comme lu après action",

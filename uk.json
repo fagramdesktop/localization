@@ -37,6 +37,8 @@
     "fa_screenshot_mode_desc": "Конфіденційна інформація, така як імена та аватари, рандомізується текстом і цифрами для приватності при створенні скріншотів",
     "fa_hide_stories": "Приховати історії",
     "fa_hide_stories_desc": "Приховує розділ історій",
+    "fa_hide_archived_stories": "Приховати архівні історії",
+    "fa_hide_archived_stories_desc": "Приховує розділ історій в архівних чатах",
     "fa_local_tg_premium": "Локальний Telegram Premium",
     "fa_local_tg_premium_desc": "Вмикає деякі візуальні функції Premium локально без реальної підписки",
     "fa_mark_read_after_action": "β Позначити прочитаним після дії",
