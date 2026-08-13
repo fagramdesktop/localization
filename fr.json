@@ -160,5 +160,8 @@
     "fa_translate_native": "Natif",
     "fa_icons": "Icônes",
     "fa_default_icon": "Icône par défaut",
-    "fa_material_icon": "Icône Material"
+    "fa_material_icon": "Icône Material",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Aperçu Telegram",
+    "fa_preview_contact_subtitle": "Démo de l'arrondi dynamique des coins"
 }

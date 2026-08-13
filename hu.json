@@ -160,5 +160,8 @@
     "fa_translate_native": "Natív",
     "fa_icons": "Ikonok",
     "fa_default_icon": "Alapértelmezett ikon",
-    "fa_material_icon": "Material ikon"
+    "fa_material_icon": "Material ikon",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Telegram előnézet",
+    "fa_preview_contact_subtitle": "Dinamikus saroklekerekítés bemutató"
 }

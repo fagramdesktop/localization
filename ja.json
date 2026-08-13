@@ -160,5 +160,8 @@
     "fa_translate_native": "ネイティブ",
     "fa_icons": "アイコン",
     "fa_default_icon": "デフォルトアイコン",
-    "fa_material_icon": "Material アイコン"
+    "fa_material_icon": "Material アイコン",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Telegramプレビュー",
+    "fa_preview_contact_subtitle": "動的な角の丸みデモ"
 }

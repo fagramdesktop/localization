@@ -160,5 +160,8 @@
     "fa_translate_native": "原生",
     "fa_icons": "图标",
     "fa_default_icon": "默认图标",
-    "fa_material_icon": "Material 图标"
+    "fa_material_icon": "Material 图标",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Telegram 预览",
+    "fa_preview_contact_subtitle": "动态圆角演示"
 }

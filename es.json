@@ -160,5 +160,8 @@
     "fa_translate_native": "Nativo",
     "fa_icons": "Iconos",
     "fa_default_icon": "Icono predeterminado",
-    "fa_material_icon": "Icono Material"
+    "fa_material_icon": "Icono Material",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Vista previa de Telegram",
+    "fa_preview_contact_subtitle": "Demostración de redondeo dinámico de esquinas"
 }

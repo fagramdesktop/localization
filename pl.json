@@ -160,5 +160,8 @@
     "fa_translate_native": "Natywny",
     "fa_icons": "Ikony",
     "fa_default_icon": "Domyślna ikona",
-    "fa_material_icon": "Ikona Material"
+    "fa_material_icon": "Ikona Material",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Podgląd Telegram",
+    "fa_preview_contact_subtitle": "Demo dynamicznego zaokrąglenia rogów"
 }

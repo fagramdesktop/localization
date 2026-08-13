@@ -160,5 +160,8 @@
     "fa_translate_native": "Native",
     "fa_icons": "Icons",
     "fa_default_icon": "Default Icon",
-    "fa_material_icon": "Material Icon"
+    "fa_material_icon": "Material Icon",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Telegram Preview",
+    "fa_preview_contact_subtitle": "Dynamic corner roundness demo"
 }

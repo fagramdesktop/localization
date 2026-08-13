@@ -160,5 +160,8 @@
     "fa_translate_native": "Yerleşik",
     "fa_icons": "Simgeler",
     "fa_default_icon": "Varsayılan Simge",
-    "fa_material_icon": "Material Simge"
+    "fa_material_icon": "Material Simge",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Telegram Önizlemesi",
+    "fa_preview_contact_subtitle": "Dinamik köşe yuvarlaklığı demosu"
 }

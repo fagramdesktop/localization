@@ -160,5 +160,8 @@
     "fa_translate_native": "Nativ",
     "fa_icons": "Icons",
     "fa_default_icon": "Standard-Icon",
-    "fa_material_icon": "Material-Icon"
+    "fa_material_icon": "Material-Icon",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Telegram-Vorschau",
+    "fa_preview_contact_subtitle": "Demo für dynamische Eckenabrundung"
 }

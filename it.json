@@ -160,5 +160,8 @@
     "fa_translate_native": "Nativo",
     "fa_icons": "Icone",
     "fa_default_icon": "Icona predefinita",
-    "fa_material_icon": "Icona Material"
+    "fa_material_icon": "Icona Material",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Anteprima Telegram",
+    "fa_preview_contact_subtitle": "Demo dell'arrotondamento dinamico degli angoli"
 }

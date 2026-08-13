@@ -160,5 +160,8 @@
     "fa_translate_native": "Нативный",
     "fa_icons": "Иконки",
     "fa_default_icon": "Стандартные иконки",
-    "fa_material_icon": "Иконки Material"
+    "fa_material_icon": "Иконки Material",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Предпросмотр Telegram",
+    "fa_preview_contact_subtitle": "Демонстрация динамического скругления"
 }

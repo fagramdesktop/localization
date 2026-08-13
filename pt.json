@@ -160,5 +160,8 @@
     "fa_translate_native": "Nativo",
     "fa_icons": "Ícones",
     "fa_default_icon": "Ícone padrão",
-    "fa_material_icon": "Ícone Material"
+    "fa_material_icon": "Ícone Material",
+    "fa_fagram": "FAgram",
+    "fa_preview_contact_title": "Pré-visualização do Telegram",
+    "fa_preview_contact_subtitle": "Demonstração de arredondamento dinâmico"
 }
