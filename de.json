@@ -37,8 +37,6 @@
     "fa_screenshot_mode_desc": "Sensible Informationen wie Namen und Avatare werden beim Erstellen von Screenshots zum Schutz der Privatsphäre mit Texten und Zahlen zufällig angeordnet",
     "fa_hide_stories": "Stories ausblenden",
     "fa_hide_stories_desc": "Verbirgt den Story-Bereich",
-    "fa_hide_archived_stories": "Archivierte Storys ausblenden",
-    "fa_hide_archived_stories_desc": "Blendet den Story-Bereich in archivierten Chats aus",
     "fa_local_tg_premium": "Lokales Telegram Premium",
     "fa_local_tg_premium_desc": "Aktiviert einige visuelle Premium-Funktionen lokal ohne tatsächliches Abonnement",
     "fa_mark_read_after_action": "β Nach Aktion lesen",

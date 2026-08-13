@@ -37,8 +37,6 @@
     "fa_screenshot_mode_desc": "スクリーンショットを撮る際、プライバシーのために名前やアバターなどの機密情報がテキストや数字でランダム化されます",
     "fa_hide_stories": "ストーリーを非表示",
     "fa_hide_stories_desc": "ストーリーセクションを非表示",
-    "fa_hide_archived_stories": "アーカイブされたストーリーを非表示",
-    "fa_hide_archived_stories_desc": "アーカイブされたチャットのストーリーセクションを非表示にします",
     "fa_local_tg_premium": "ローカルTelegram Premium",
     "fa_local_tg_premium_desc": "実際のサブスクリプションなしで一部のプレミアム視覚機能をローカルで有効化",
     "fa_mark_read_after_action": "β アクション後に既読にする",
