@@ -157,5 +157,8 @@
     "fa_translate_telegram": "Telegram",
     "fa_translate_google": "Google",
     "fa_translate_yandex": "Yandex",
-    "fa_translate_native": "原生"
+    "fa_translate_native": "原生",
+    "fa_icons": "图标",
+    "fa_default_icon": "默认图标",
+    "fa_material_icon": "Material 图标"
 }

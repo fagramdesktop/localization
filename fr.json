@@ -157,5 +157,8 @@
     "fa_translate_telegram": "Telegram",
     "fa_translate_google": "Google",
     "fa_translate_yandex": "Yandex",
-    "fa_translate_native": "Natif"
+    "fa_translate_native": "Natif",
+    "fa_icons": "Icônes",
+    "fa_default_icon": "Icône par défaut",
+    "fa_material_icon": "Icône Material"
 }

@@ -157,5 +157,8 @@
     "fa_translate_telegram": "تيليغرام",
     "fa_translate_google": "جوجل",
     "fa_translate_yandex": "ياندكس",
-    "fa_translate_native": "أصلي"
+    "fa_translate_native": "أصلي",
+    "fa_icons": "الأيقونات",
+    "fa_default_icon": "أيقونة افتراضية",
+    "fa_material_icon": "أيقونة Material"
 }

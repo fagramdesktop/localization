@@ -157,5 +157,8 @@
     "fa_translate_telegram": "Telegram",
     "fa_translate_google": "Google",
     "fa_translate_yandex": "Yandex",
-    "fa_translate_native": "Нативний"
+    "fa_translate_native": "Нативний",
+    "fa_icons": "Іконки",
+    "fa_default_icon": "Стандартні іконки",
+    "fa_material_icon": "Іконки Material"
 }
