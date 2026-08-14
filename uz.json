@@ -163,5 +163,10 @@
     "fa_material_icon": "Material piktogramma",
     "fa_fagram": "FAgram",
     "fa_preview_contact_title": "Telegram ko'rinishi",
-    "fa_preview_contact_subtitle": "Dinamik burchak yumaloqligi namunasi"
+    "fa_preview_contact_subtitle": "Dinamik burchak yumaloqligi namunasi",
+    "fa_chat_list_and_folders": "Chat List & Folders",
+    "fa_media_and_appearance": "Media & Appearance",
+    "fa_developer_and_profile": "Profile & Developer Details",
+    "fa_shortcut_customization": "Shortcut Customization",
+    "fa_context_menu_actions": "Context Menu Actions"
 }
