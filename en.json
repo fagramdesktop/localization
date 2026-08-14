@@ -59,7 +59,7 @@
     "fa_unlimited_pinned_chats_desc": "Pin up to 100 chats locally on this device",
     "fa_unlimited_chat_folders": "Unlimited chat folders",
     "fa_unlimited_chat_folders_desc": "Create up to 100 folders locally on this device",
-    "fa_delete_for_everyone": "Checkmark \"Delete for everyone\" enabled by default",
+    "fa_delete_for_everyone": "Enable \"Delete for everyone\" by default",
     "fa_delete_for_everyone_desc": "Pre-select \"Delete for everyone\" when deleting messages",
     "fa_last_seen_timestamp": "Show full timestamp after 1 hour offline",
     "fa_last_seen_timestamp_desc": "Show exact date and time instead of relative hours when offline over 1 hour",
