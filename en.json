@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Show exact date and time after 1 hour offline",
     "fa_show_forwarded_date_in_title": "Show Forwarded Message Date",
     "fa_show_forwarded_date_in_title_desc": "Show original date and time in forwarded headers",
+    "fa_show_forwards_count": "Show Forward Count",
+    "fa_show_forwards_count_desc": "Show total forward count next to views in channel posts",
     "fa_disable_greeting_sticker": "Disable Greeting Stickers",
     "fa_disable_greeting_sticker_desc": "Hide greeting stickers in new private chats",
     "fa_appearance": "Appearance",
