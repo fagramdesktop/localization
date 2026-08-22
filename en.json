@@ -158,5 +158,15 @@
     "fa_context_menu_actions": "Context Menu Actions",
     "fa_avatar": "Avatar",
     "fa_share_menu_folder_icons": "Share Menu Folder Icons",
-    "fa_share_menu_folder_icons_desc": "Show folder icons only in the share menu"
+    "fa_share_menu_folder_icons_desc": "Show folder icons only in the share menu",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Last.fm Username",
+    "fa_lastfm_username_desc": "Enter your Last.fm username to enable Now Playing",
+    "fa_lastfm_custom_key": "Use my own API key (optional)",
+    "fa_lastfm_custom_key_desc": "Use a personal Last.fm API application key",
+    "fa_lastfm_api_key_field": "API Key",
+    "fa_lastfm_show_on_profile": "Show on my profile for others",
+    "fa_lastfm_show_on_profile_desc": "Appends #np:username to your bio so others can see what you are playing",
+    "fa_lastfm_now_playing": "Now Playing",
+    "fa_lastfm_scrobbling": "Scrobbling via Last.fm"
 }
