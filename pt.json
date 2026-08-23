@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Mostrar data e hora exatas após 1 hora offline",
     "fa_show_forwarded_date_in_title": "Data de mensagens reencaminhadas",
     "fa_show_forwarded_date_in_title_desc": "Mostrar data e hora originais no cabeçalho",
+    "fa_show_forwards_count": "Mostrar contagem de reencaminhamentos",
+    "fa_show_forwards_count_desc": "Mostrar a contagem total de reencaminhamentos ao lado das visualizações nas publicações dos canais",
     "fa_disable_greeting_sticker": "Desativar stickers de saudação",
     "fa_disable_greeting_sticker_desc": "Ocultar stickers de boas-vindas em novas conversas privadas",
     "fa_appearance": "Aparência",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Ações do menu contextual",
     "fa_avatar": "Avatar",
     "fa_share_menu_folder_icons": "Ícones de pastas no menu de partilha",
-    "fa_share_menu_folder_icons_desc": "Mostrar apenas ícones de pastas no menu de partilha"
+    "fa_share_menu_folder_icons_desc": "Mostrar apenas ícones de pastas no menu de partilha",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Nome de utilizador do Last.fm",
+    "fa_lastfm_username_desc": "Insere o teu nome de utilizador do Last.fm para ativar o «A reproduzir»",
+    "fa_lastfm_custom_key": "Usar a minha própria chave de API (opcional)",
+    "fa_lastfm_custom_key_desc": "Usar uma chave de API de aplicação pessoal do Last.fm",
+    "fa_lastfm_api_key_field": "Chave de API",
+    "fa_lastfm_show_on_profile": "Mostrar no meu perfil para os outros",
+    "fa_lastfm_show_on_profile_desc": "Adiciona #np:username à tua biografia para que os outros possam ver o que estás a ouvir",
+    "fa_lastfm_now_playing": "A reproduzir",
+    "fa_lastfm_scrobbling": "A fazer scrobble via Last.fm"
 }

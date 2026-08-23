@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Показувати точну дату й час після 1 години офлайн",
     "fa_show_forwarded_date_in_title": "Дата пересланого повідомлення",
     "fa_show_forwarded_date_in_title_desc": "Показувати оригінальну дату та час у заголовку",
+    "fa_show_forwards_count": "Кількість пересилань",
+    "fa_show_forwards_count_desc": "Показувати загальну кількість пересилань поруч із переглядами в дописах каналів",
     "fa_disable_greeting_sticker": "Вимкнути вітальні наліпки",
     "fa_disable_greeting_sticker_desc": "Приховувати вітальні наліпки в нових приватних чатах",
     "fa_appearance": "Вигляд",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Дії контекстного меню",
     "fa_avatar": "Аватар",
     "fa_share_menu_folder_icons": "Піктограми папок у меню «Поділитися»",
-    "fa_share_menu_folder_icons_desc": "Показувати лише піктограми папок у меню «Поділитися»"
+    "fa_share_menu_folder_icons_desc": "Показувати лише піктограми папок у меню «Поділитися»",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Ім'я користувача Last.fm",
+    "fa_lastfm_username_desc": "Введіть ім'я користувача Last.fm, щоб увімкнути «Зараз грає»",
+    "fa_lastfm_custom_key": "Використовувати власний API-ключ (необов'язково)",
+    "fa_lastfm_custom_key_desc": "Використовувати особистий ключ застосунку Last.fm API",
+    "fa_lastfm_api_key_field": "API-ключ",
+    "fa_lastfm_show_on_profile": "Показувати в моєму профілі для інших",
+    "fa_lastfm_show_on_profile_desc": "Додає #np:username до опису профілю, щоб інші бачили, що ви слухаєте",
+    "fa_lastfm_now_playing": "Зараз грає",
+    "fa_lastfm_scrobbling": "Скробблінг через Last.fm"
 }

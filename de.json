@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Nach 1 Stunde offline exaktes Datum und Uhrzeit anzeigen",
     "fa_show_forwarded_date_in_title": "Datum weitergeleiteter Nachrichten",
     "fa_show_forwarded_date_in_title_desc": "Originaldatum und -zeit in weitergeleiteten Kopfzeilen anzeigen",
+    "fa_show_forwards_count": "Weiterleitungsanzahl anzeigen",
+    "fa_show_forwards_count_desc": "Gesamtanzahl der Weiterleitungen neben den Aufrufen in Kanalbeiträgen anzeigen",
     "fa_disable_greeting_sticker": "Begrüßungssticker deaktivieren",
     "fa_disable_greeting_sticker_desc": "Begrüßungssticker in neuen privaten Chats ausblenden",
     "fa_appearance": "Erscheinungsbild",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Aktionen im Kontextmenü",
     "fa_avatar": "Avatar",
     "fa_share_menu_folder_icons": "Ordnersymbole im Teilen-Menü",
-    "fa_share_menu_folder_icons_desc": "Nur Ordnersymbole im Teilen-Menü anzeigen"
+    "fa_share_menu_folder_icons_desc": "Nur Ordnersymbole im Teilen-Menü anzeigen",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Last.fm-Benutzername",
+    "fa_lastfm_username_desc": "Gib deinen Last.fm-Benutzernamen ein, um «Aktuelle Wiedergabe» zu aktivieren",
+    "fa_lastfm_custom_key": "Eigenen API-Schlüssel verwenden (optional)",
+    "fa_lastfm_custom_key_desc": "Einen persönlichen Last.fm-API-Schlüssel verwenden",
+    "fa_lastfm_api_key_field": "API-Schlüssel",
+    "fa_lastfm_show_on_profile": "Auf meinem Profil für andere anzeigen",
+    "fa_lastfm_show_on_profile_desc": "Fügt #np:username zu deiner Biografie hinzu, damit andere sehen, was du gerade hörst",
+    "fa_lastfm_now_playing": "Aktuelle Wiedergabe",
+    "fa_lastfm_scrobbling": "Scrobbeln über Last.fm"
 }

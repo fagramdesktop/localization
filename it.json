@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Mostra data e ora esatte dopo 1 ora offline",
     "fa_show_forwarded_date_in_title": "Data messaggi inoltrati",
     "fa_show_forwarded_date_in_title_desc": "Mostra data e ora originali nell'intestazione inoltrata",
+    "fa_show_forwards_count": "Mostra conteggio inoltri",
+    "fa_show_forwards_count_desc": "Mostra il conteggio totale degli inoltri accanto alle visualizzazioni nei post del canale",
     "fa_disable_greeting_sticker": "Disattiva sticker di benvenuto",
     "fa_disable_greeting_sticker_desc": "Nascondi sticker di benvenuto nelle nuove chat private",
     "fa_appearance": "Aspetto",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Azioni del menu contestuale",
     "fa_avatar": "Avatar",
     "fa_share_menu_folder_icons": "Icone delle cartelle nel menu Condividi",
-    "fa_share_menu_folder_icons_desc": "Mostra solo le icone delle cartelle nel menu Condividi"
+    "fa_share_menu_folder_icons_desc": "Mostra solo le icone delle cartelle nel menu Condividi",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Nome utente Last.fm",
+    "fa_lastfm_username_desc": "Inserisci il tuo nome utente Last.fm per abilitare «In riproduzione»",
+    "fa_lastfm_custom_key": "Usa la mia chiave API (facoltativo)",
+    "fa_lastfm_custom_key_desc": "Usa una chiave API personale dell'applicazione Last.fm",
+    "fa_lastfm_api_key_field": "Chiave API",
+    "fa_lastfm_show_on_profile": "Mostra sul mio profilo per gli altri",
+    "fa_lastfm_show_on_profile_desc": "Aggiunge #np:username alla tua biografia per permettere agli altri di vedere cosa stai ascoltando",
+    "fa_lastfm_now_playing": "In riproduzione",
+    "fa_lastfm_scrobbling": "Scrobbling tramite Last.fm"
 }

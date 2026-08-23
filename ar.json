@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "إظهار التاريخ والوقت الدقيق بعد ساعة من عدم الاتصال",
     "fa_show_forwarded_date_in_title": "تاريخ الرسائل المحولة",
     "fa_show_forwarded_date_in_title_desc": "إظهار التاريخ والوقت الأصلي في ترويسة التحويل",
+    "fa_show_forwards_count": "إظهار عدد مرات التحويل",
+    "fa_show_forwards_count_desc": "إظهار إجمالي عدد مرات التحويل بجانب المشاهدات في منشورات القنوات",
     "fa_disable_greeting_sticker": "تعطيل ملصقات الترحيب",
     "fa_disable_greeting_sticker_desc": "إخفاء ملصقات الترحيب في المحادثات الخاصة الجديدة",
     "fa_appearance": "المظهر",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "إجراءات قائمة الخيارات",
     "fa_avatar": "الصورة الشخصية",
     "fa_share_menu_folder_icons": "أيقونات المجلدات في قائمة المشاركة",
-    "fa_share_menu_folder_icons_desc": "إظهار أيقونات المجلدات فقط في قائمة المشاركة"
+    "fa_share_menu_folder_icons_desc": "إظهار أيقونات المجلدات فقط في قائمة المشاركة",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "اسم مستخدم Last.fm",
+    "fa_lastfm_username_desc": "أدخل اسم مستخدم Last.fm لتفعيل ميزة «يتم تشغيله الآن»",
+    "fa_lastfm_custom_key": "استخدام مفتاح API الخاص بي (اختياري)",
+    "fa_lastfm_custom_key_desc": "استخدام مفتاح تطبيق Last.fm API شخصي",
+    "fa_lastfm_api_key_field": "مفتاح API",
+    "fa_lastfm_show_on_profile": "إظهار في ملفي الشخصي للآخرين",
+    "fa_lastfm_show_on_profile_desc": "يضيف #np:username إلى نبذتك التعريفية ليتمكن الآخرون من معرفة ما تستمع إليه",
+    "fa_lastfm_now_playing": "يتم تشغيله الآن",
+    "fa_lastfm_scrobbling": "تسجيل الاستماع عبر Last.fm"
 }

@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "1 時間以上オフラインの場合に正確な日時を表示します",
     "fa_show_forwarded_date_in_title": "転送メッセージの日時を表示",
     "fa_show_forwarded_date_in_title_desc": "転送ヘッダーに元のメッセージ日時を表示します",
+    "fa_show_forwards_count": "転送数を表示",
+    "fa_show_forwards_count_desc": "チャンネルの投稿で閲覧数の横に転送数を表示します",
     "fa_disable_greeting_sticker": "挨拶ステッカーを無効化",
     "fa_disable_greeting_sticker_desc": "新規プライベートチャットの挨拶ステッカーを非表示にします",
     "fa_appearance": "外観",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "メニューのアクション",
     "fa_avatar": "アバター",
     "fa_share_menu_folder_icons": "共有メニューのフォルダアイコン",
-    "fa_share_menu_folder_icons_desc": "共有メニューでフォルダのアイコンのみを表示します"
+    "fa_share_menu_folder_icons_desc": "共有メニューでフォルダのアイコンのみを表示します",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Last.fm のユーザー名",
+    "fa_lastfm_username_desc": "再生中を有効にするには Last.fm のユーザー名を入力してください",
+    "fa_lastfm_custom_key": "独自の API キーを使用（任意）",
+    "fa_lastfm_custom_key_desc": "個人の Last.fm API アプリケーションキーを使用します",
+    "fa_lastfm_api_key_field": "API キー",
+    "fa_lastfm_show_on_profile": "他のユーザー向けにプロフィールに表示",
+    "fa_lastfm_show_on_profile_desc": "プロフィール欄に #np:username を追加して再生中の曲を他の人に見えるようにします",
+    "fa_lastfm_now_playing": "再生中",
+    "fa_lastfm_scrobbling": "Last.fm 経由でスクロブル"
 }

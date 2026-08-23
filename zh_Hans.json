@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "离线超过 1 小时后显示确切日期和时间",
     "fa_show_forwarded_date_in_title": "显示转发消息日期",
     "fa_show_forwarded_date_in_title_desc": "在转发消息头部显示原始日期与时间",
+    "fa_show_forwards_count": "显示转发次数",
+    "fa_show_forwards_count_desc": "在频道消息的浏览量旁显示总转发次数",
     "fa_disable_greeting_sticker": "禁用打招呼贴纸",
     "fa_disable_greeting_sticker_desc": "在新的私聊中隐藏打招呼贴纸",
     "fa_appearance": "外观",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "右键菜单操作",
     "fa_avatar": "头像",
     "fa_share_menu_folder_icons": "分享菜单文件夹图标",
-    "fa_share_menu_folder_icons_desc": "在分享菜单中仅显示文件夹图标"
+    "fa_share_menu_folder_icons_desc": "在分享菜单中仅显示文件夹图标",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Last.fm 用户名",
+    "fa_lastfm_username_desc": "输入您的 Last.fm 用户名以启用“正在播放”",
+    "fa_lastfm_custom_key": "使用自定义 API 密钥（可选）",
+    "fa_lastfm_custom_key_desc": "使用个人的 Last.fm API 应用程序密钥",
+    "fa_lastfm_api_key_field": "API 密钥",
+    "fa_lastfm_show_on_profile": "在个人资料中向他人显示",
+    "fa_lastfm_show_on_profile_desc": "在个人简介中追加 #np:username，以便他人查看您正在播放的内容",
+    "fa_lastfm_now_playing": "正在播放",
+    "fa_lastfm_scrobbling": "通过 Last.fm 记录听歌历史"
 }

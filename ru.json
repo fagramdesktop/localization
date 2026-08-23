@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Показывать точную дату и время после 1 часа офлайн",
     "fa_show_forwarded_date_in_title": "Дата пересланного сообщения",
     "fa_show_forwarded_date_in_title_desc": "Показывать исходную дату и время в заголовке",
+    "fa_show_forwards_count": "Счётчик пересылок",
+    "fa_show_forwards_count_desc": "Показывать количество пересылок рядом с просмотрами в постах каналов",
     "fa_disable_greeting_sticker": "Отключить приветственные стикеры",
     "fa_disable_greeting_sticker_desc": "Скрывать приветственные стикеры в новых личных чатах",
     "fa_appearance": "Оформление",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Действия контекстного меню",
     "fa_avatar": "Аватар",
     "fa_share_menu_folder_icons": "Иконки папок в меню «Поделиться»",
-    "fa_share_menu_folder_icons_desc": "Показывать только иконки папок в меню «Поделиться»"
+    "fa_share_menu_folder_icons_desc": "Показывать только иконки папок в меню «Поделиться»",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Имя пользователя Last.fm",
+    "fa_lastfm_username_desc": "Введите имя пользователя Last.fm, чтобы включить «Сейчас играет»",
+    "fa_lastfm_custom_key": "Использовать собственный API-ключ (необязательно)",
+    "fa_lastfm_custom_key_desc": "Использовать личный ключ приложения Last.fm API",
+    "fa_lastfm_api_key_field": "API-ключ",
+    "fa_lastfm_show_on_profile": "Показывать в профиле для других",
+    "fa_lastfm_show_on_profile_desc": "Добавляет #np:username в описание профиля, чтобы другие видели, что вы слушаете",
+    "fa_lastfm_now_playing": "Сейчас играет",
+    "fa_lastfm_scrobbling": "Скробблинг через Last.fm"
 }

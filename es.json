@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Mostrar fecha y hora exactas tras 1 hora desconectado",
     "fa_show_forwarded_date_in_title": "Fecha de mensajes reenviados",
     "fa_show_forwarded_date_in_title_desc": "Mostrar fecha y hora original en el encabezado",
+    "fa_show_forwards_count": "Mostrar contador de reenvíos",
+    "fa_show_forwards_count_desc": "Mostrar el número total de reenvíos junto a las vistas en publicaciones de canales",
     "fa_disable_greeting_sticker": "Desactivar stickers de saludo",
     "fa_disable_greeting_sticker_desc": "Ocultar stickers de saludo en nuevos chats privados",
     "fa_appearance": "Apariencia",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Acciones del menú contextual",
     "fa_avatar": "Avatar",
     "fa_share_menu_folder_icons": "Iconos de carpetas en el menú compartir",
-    "fa_share_menu_folder_icons_desc": "Mostrar solo iconos de carpetas en el menú compartir"
+    "fa_share_menu_folder_icons_desc": "Mostrar solo iconos de carpetas en el menú compartir",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Nombre de usuario de Last.fm",
+    "fa_lastfm_username_desc": "Introduce tu nombre de usuario de Last.fm para activar «Reproduciendo ahora»",
+    "fa_lastfm_custom_key": "Usar mi propia clave API (opcional)",
+    "fa_lastfm_custom_key_desc": "Usar una clave de aplicación personal de la API de Last.fm",
+    "fa_lastfm_api_key_field": "Clave API",
+    "fa_lastfm_show_on_profile": "Mostrar en mi perfil para otros",
+    "fa_lastfm_show_on_profile_desc": "Añade #np:username a tu biografía para que otros puedan ver lo que estás escuchando",
+    "fa_lastfm_now_playing": "Reproduciendo ahora",
+    "fa_lastfm_scrobbling": "Scrobbling a través de Last.fm"
 }

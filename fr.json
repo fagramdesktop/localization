@@ -57,6 +57,8 @@
     "fa_last_seen_timestamp_desc": "Afficher la date et l'heure exactes après 1 heure hors ligne",
     "fa_show_forwarded_date_in_title": "Date des messages transférés",
     "fa_show_forwarded_date_in_title_desc": "Afficher la date et l'heure originales dans l'en-tête transféré",
+    "fa_show_forwards_count": "Afficher le nombre de transferts",
+    "fa_show_forwards_count_desc": "Afficher le nombre total de transferts à côté des vues dans les publications de canaux",
     "fa_disable_greeting_sticker": "Désactiver les autocollants d'accueil",
     "fa_disable_greeting_sticker_desc": "Masquer les autocollants de bienvenue dans les nouveaux échanges privés",
     "fa_appearance": "Apparence",
@@ -156,5 +158,15 @@
     "fa_context_menu_actions": "Actions du menu contextuel",
     "fa_avatar": "Avatar",
     "fa_share_menu_folder_icons": "Icônes de dossiers dans le menu de partage",
-    "fa_share_menu_folder_icons_desc": "Afficher uniquement les icônes de dossiers dans le menu de partage"
+    "fa_share_menu_folder_icons_desc": "Afficher uniquement les icônes de dossiers dans le menu de partage",
+    "fa_lastfm": "Last.fm",
+    "fa_lastfm_username": "Nom d'utilisateur Last.fm",
+    "fa_lastfm_username_desc": "Entrez votre nom d'utilisateur Last.fm pour activer la lecture en cours",
+    "fa_lastfm_custom_key": "Utiliser ma propre clé API (facultatif)",
+    "fa_lastfm_custom_key_desc": "Utiliser une clé d'application personnelle de l'API Last.fm",
+    "fa_lastfm_api_key_field": "Clé API",
+    "fa_lastfm_show_on_profile": "Afficher sur mon profil pour les autres",
+    "fa_lastfm_show_on_profile_desc": "Ajoute #np:username à votre bio pour que les autres puissent voir ce que vous écoutez",
+    "fa_lastfm_now_playing": "En cours de lecture",
+    "fa_lastfm_scrobbling": "Scrobbling via Last.fm"
 }
