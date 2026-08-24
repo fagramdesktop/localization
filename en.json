@@ -168,5 +168,10 @@
     "fa_lastfm_show_on_profile": "Show on my profile for others",
     "fa_lastfm_show_on_profile_desc": "Appends #np:username to your bio so others can see what you are playing",
     "fa_lastfm_now_playing": "Now Playing",
-    "fa_lastfm_scrobbling": "Scrobbling via Last.fm"
+    "fa_lastfm_scrobbling": "Scrobbling via Last.fm",
+    "fa_members_filter": "Members filter",
+    "fa_members_filter_all": "All",
+    "fa_members_filter_admins": "Administrators",
+    "fa_members_filter_bots": "Bots",
+    "fa_members_filter_deleted": "Deleted accounts"
 }
