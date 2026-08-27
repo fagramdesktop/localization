@@ -45,6 +45,8 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Hide Web App buttons in the chat list",
     "fa_hide_all_chats_folder": "Hide \"All Chats\" Folder",
     "fa_hide_all_chats_folder_desc": "Hide the \"All Chats\" tab from folder list",
+    "fa_hide_archived_chats": "Hide Archived Chats",
+    "fa_hide_archived_chats_desc": "Moves the Archived chats to Drawer",
     "fa_show_discuss_button": "Show Discuss Button",
     "fa_show_discuss_button_desc": "Add a button in channels to jump to discussion",
     "fa_show_message_details": "Show Message Details",
