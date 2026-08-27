@@ -51,6 +51,8 @@
     "fa_show_message_details_desc": "Show technical details and metadata for messages",
     "fa_add_comma_after_mention": "Add Comma After Mention",
     "fa_add_comma_after_mention_desc": "Insert a comma after mentioning a user",
+    "fa_disable_link_preview": "Disable Link Preview",
+    "fa_disable_link_preview_desc": "Disable link previews by default when sending links",
     "fa_delete_for_everyone": "Delete for Everyone by Default",
     "fa_delete_for_everyone_desc": "Pre-select \"Delete for everyone\" when deleting messages",
     "fa_last_seen_timestamp": "Exact Offline Timestamp",
