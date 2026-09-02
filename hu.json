@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Gyorsgombok testreszabása",
     "fa_context_menu_actions": "Helyi menü műveletei",
     "fa_avatar": "Profilkép",
+    "fa_avatar_shape_outline": "Profilkép forma körvonala",
+    "fa_avatar_shape_outline_desc": "Körvonal rajzolása a Material alakú profilképek köré",
     "fa_share_menu_folder_icons": "Mappa ikonok a megosztás menüben",
     "fa_share_menu_folder_icons_desc": "Csak mappa ikonok mutatása a megosztás menüben",
     "fa_lastfm": "Last.fm",

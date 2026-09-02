@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "ショートカットのカスタマイズ",
     "fa_context_menu_actions": "メニューのアクション",
     "fa_avatar": "アバター",
+    "fa_avatar_shape_outline": "アバター形状のアウトライン",
+    "fa_avatar_shape_outline_desc": "Material形状のアバターの周囲に輪郭線を描画します",
     "fa_share_menu_folder_icons": "共有メニューのフォルダアイコン",
     "fa_share_menu_folder_icons_desc": "共有メニューでフォルダのアイコンのみを表示します",
     "fa_lastfm": "Last.fm",

@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Tugmalarni sozlash",
     "fa_context_menu_actions": "Kontekst menyusi amallari",
     "fa_avatar": "Avatar",
+    "fa_avatar_shape_outline": "Avatar shakli konturi",
+    "fa_avatar_shape_outline_desc": "Material shaklidagi avatarlar atrofida kontur chizish",
     "fa_share_menu_folder_icons": "Ulashish menyusidagi jild piktogrammalari",
     "fa_share_menu_folder_icons_desc": "Ulashish menyusida faqat jild piktogrammalarini ko'rsatish",
     "fa_lastfm": "Last.fm",

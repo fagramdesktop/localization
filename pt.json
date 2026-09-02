@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Personalização de atalhos",
     "fa_context_menu_actions": "Ações do menu contextual",
     "fa_avatar": "Avatar",
+    "fa_avatar_shape_outline": "Contorno da forma do avatar",
+    "fa_avatar_shape_outline_desc": "Desenhar um contorno ao redor dos avatares com forma Material",
     "fa_share_menu_folder_icons": "Ícones de pastas no menu de partilha",
     "fa_share_menu_folder_icons_desc": "Mostrar apenas ícones de pastas no menu de partilha",
     "fa_lastfm": "Last.fm",

@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Налаштування швидких дій",
     "fa_context_menu_actions": "Дії контекстного меню",
     "fa_avatar": "Аватар",
+    "fa_avatar_shape_outline": "Контур форми аватара",
+    "fa_avatar_shape_outline_desc": "Відображати контур навколо аватарів із формою Material",
     "fa_share_menu_folder_icons": "Піктограми папок у меню «Поділитися»",
     "fa_share_menu_folder_icons_desc": "Показувати лише піктограми папок у меню «Поділитися»",
     "fa_lastfm": "Last.fm",

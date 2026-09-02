@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Dostosowanie skrótów",
     "fa_context_menu_actions": "Akcje menu kontekstowego",
     "fa_avatar": "Awatar",
+    "fa_avatar_shape_outline": "Kontur kształtu awatara",
+    "fa_avatar_shape_outline_desc": "Rysuj kontur wokół awatarów w kształcie Material",
     "fa_share_menu_folder_icons": "Ikony folderów w menu udostępniania",
     "fa_share_menu_folder_icons_desc": "Pokaż tylko ikony folderów w menu udostępniania",
     "fa_lastfm": "Last.fm",

@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Schnellaktionen anpassen",
     "fa_context_menu_actions": "Aktionen im Kontextmenü",
     "fa_avatar": "Avatar",
+    "fa_avatar_shape_outline": "Avatar-Form-Umriss",
+    "fa_avatar_shape_outline_desc": "Umrisslinie um Material-geformte Avatare zeichnen",
     "fa_share_menu_folder_icons": "Ordnersymbole im Teilen-Menü",
     "fa_share_menu_folder_icons_desc": "Nur Ordnersymbole im Teilen-Menü anzeigen",
     "fa_lastfm": "Last.fm",

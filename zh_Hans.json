@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "快捷按钮自定义",
     "fa_context_menu_actions": "右键菜单操作",
     "fa_avatar": "头像",
+    "fa_avatar_shape_outline": "头像形状轮廓",
+    "fa_avatar_shape_outline_desc": "在 Material 形状的头像周围绘制轮廓线",
     "fa_share_menu_folder_icons": "分享菜单文件夹图标",
     "fa_share_menu_folder_icons_desc": "在分享菜单中仅显示文件夹图标",
     "fa_lastfm": "Last.fm",

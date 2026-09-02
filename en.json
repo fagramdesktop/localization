@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Shortcut Customization",
     "fa_context_menu_actions": "Context Menu Actions",
     "fa_avatar": "Avatar",
+    "fa_avatar_shape_outline": "Avatar Shape Outline",
+    "fa_avatar_shape_outline_desc": "Draw an outline stroke around material shaped avatars",
     "fa_share_menu_folder_icons": "Share Menu Folder Icons",
     "fa_share_menu_folder_icons_desc": "Show folder icons only in the share menu",
     "fa_lastfm": "Last.fm",

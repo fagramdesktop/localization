@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Kısayol Özelleştirme",
     "fa_context_menu_actions": "Bağlam Menüsü İşlemleri",
     "fa_avatar": "Avatar",
+    "fa_avatar_shape_outline": "Avatar Şekli Ana Hattı",
+    "fa_avatar_shape_outline_desc": "Material şekilli avatarların etrafına bir anahat çizin",
     "fa_share_menu_folder_icons": "Paylaşım Menüsü Klasör Simgeleri",
     "fa_share_menu_folder_icons_desc": "Paylaşım menüsünde yalnızca klasör simgelerini göster",
     "fa_lastfm": "Last.fm",

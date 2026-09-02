@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Таңбашаларды баптау",
     "fa_context_menu_actions": "Мәтінмәндік мәзір әрекеттері",
     "fa_avatar": "Аватар",
+    "fa_avatar_shape_outline": "Аватар пішінінің контуры",
+    "fa_avatar_shape_outline_desc": "Material пішініндегі аватарлардың айналасына контур сызу",
     "fa_share_menu_folder_icons": "Бөлісу мәзіріндегі қалта белгішелері",
     "fa_share_menu_folder_icons_desc": "Бөлісу мәзірінде тек қалта белгішелерін көрсету",
     "fa_lastfm": "Last.fm",

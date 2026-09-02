@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "تخصيص الاختصارات",
     "fa_context_menu_actions": "إجراءات قائمة الخيارات",
     "fa_avatar": "الصورة الشخصية",
+    "fa_avatar_shape_outline": "إطار شكل الصورة الشخصية",
+    "fa_avatar_shape_outline_desc": "رسم إطار حول الصور الشخصية ذات أشكال Material",
     "fa_share_menu_folder_icons": "أيقونات المجلدات في قائمة المشاركة",
     "fa_share_menu_folder_icons_desc": "إظهار أيقونات المجلدات فقط في قائمة المشاركة",
     "fa_lastfm": "Last.fm",

@@ -161,6 +161,8 @@
     "fa_shortcut_customization": "Настройка быстрых кнопок",
     "fa_context_menu_actions": "Действия контекстного меню",
     "fa_avatar": "Аватар",
+    "fa_avatar_shape_outline": "Контур формы аватара",
+    "fa_avatar_shape_outline_desc": "Отображать контур вокруг аватаров с формой Material",
     "fa_share_menu_folder_icons": "Иконки папок в меню «Поделиться»",
     "fa_share_menu_folder_icons_desc": "Показывать только иконки папок в меню «Поделиться»",
     "fa_lastfm": "Last.fm",
