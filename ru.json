@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Скрыть кнопки Web App в списке чатов",
     "fa_hide_all_chats_folder": "Скрыть папку «Все чаты»",
     "fa_hide_all_chats_folder_desc": "Скрыть вкладку «Все чаты» в списке папок",
+    "fa_hide_archived_chats": "Скрыть архивные чаты",
+    "fa_hide_archived_chats_desc": "Переносит архивные чаты в боковое меню",
     "fa_show_discuss_button": "Кнопка обсуждения",
     "fa_show_discuss_button_desc": "Добавить в каналах кнопку перехода к обсуждению",
     "fa_show_message_details": "Показать детали сообщения",
     "fa_show_message_details_desc": "Показывать метаданные и технические детали сообщений",
     "fa_add_comma_after_mention": "Запятая после упоминания",
     "fa_add_comma_after_mention_desc": "Вставлять запятую после упоминания пользователя",
+    "fa_disable_link_preview": "Отключить предпросмотр ссылок",
+    "fa_disable_link_preview_desc": "Отключать предпросмотр ссылок по умолчанию при отправке ссылок",
     "fa_delete_for_everyone": "«Удалить для всех» по умолчанию",
     "fa_delete_for_everyone_desc": "Заранее выбирать «Удалить для всех» при удалении сообщений",
     "fa_last_seen_timestamp": "Точное время отсутствия",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Показывать в профиле для других",
     "fa_lastfm_show_on_profile_desc": "Добавляет #np:username в описание профиля, чтобы другие видели, что вы слушаете",
     "fa_lastfm_now_playing": "Сейчас играет",
-    "fa_lastfm_scrobbling": "Скробблинг через Last.fm"
+    "fa_lastfm_scrobbling": "Скробблинг через Last.fm",
+    "fa_members_filter": "Фильтр участников",
+    "fa_members_filter_all": "Все",
+    "fa_members_filter_admins": "Администраторы",
+    "fa_members_filter_bots": "Боты",
+    "fa_members_filter_deleted": "Удалённые аккаунты"
 }

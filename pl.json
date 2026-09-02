@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Ukryj przyciski Web App na liście czatów",
     "fa_hide_all_chats_folder": "Ukryj folder «Wszystkie czaty»",
     "fa_hide_all_chats_folder_desc": "Ukryj zakładkę «Wszystkie czaty» z listy folderów",
+    "fa_hide_archived_chats": "Ukryj zarchiwizowane czaty",
+    "fa_hide_archived_chats_desc": "Przenosi zarchiwizowane czaty do menu bocznego",
     "fa_show_discuss_button": "Przycisk dyskusji",
     "fa_show_discuss_button_desc": "Dodaj przycisk w kanałach do przejścia do grupy dyskusyjnej",
     "fa_show_message_details": "Szczegóły wiadomości",
     "fa_show_message_details_desc": "Pokaż metadane i szczegóły techniczne wiadomości",
     "fa_add_comma_after_mention": "Przecinek po wzmiance",
     "fa_add_comma_after_mention_desc": "Wstawiaj przecinek po wspomnieniu użytkownika",
+    "fa_disable_link_preview": "Wyłącz podgląd linków",
+    "fa_disable_link_preview_desc": "Domyślnie wyłączaj podgląd linków podczas wysyłania linków",
     "fa_delete_for_everyone": "Domyślnie «Usuń dla wszystkich»",
     "fa_delete_for_everyone_desc": "Domyślnie zaznaczaj «Usuń dla wszystkich» przy usuwaniu",
     "fa_last_seen_timestamp": "Dokładny czas nieaktywności",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Pokaż w moim profilu dla innych",
     "fa_lastfm_show_on_profile_desc": "Dodaje #np:username do Twojego biogramu, aby inni widzieli, czego słuchasz",
     "fa_lastfm_now_playing": "Teraz odtwarzane",
-    "fa_lastfm_scrobbling": "Scrobblowanie przez Last.fm"
+    "fa_lastfm_scrobbling": "Scrobblowanie przez Last.fm",
+    "fa_members_filter": "Filtr członków",
+    "fa_members_filter_all": "Wszyscy",
+    "fa_members_filter_admins": "Administratorzy",
+    "fa_members_filter_bots": "Boty",
+    "fa_members_filter_deleted": "Usunięte konta"
 }

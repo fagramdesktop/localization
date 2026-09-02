@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Чаттар тізімінде Web App батырмаларын жасыру",
     "fa_hide_all_chats_folder": "«Барлық чаттар» қалтасын жасыру",
     "fa_hide_all_chats_folder_desc": "Қалталар тізімінен «Барлық чаттар» қойындысын жасыру",
+    "fa_hide_archived_chats": "Мұрағатталған чаттарды жасыру",
+    "fa_hide_archived_chats_desc": "Мұрағатталған чаттарды бүйірлік мәзірге жылжытады",
     "fa_show_discuss_button": "Талқылау батырмасын көрсету",
     "fa_show_discuss_button_desc": "Арналарда талқылау тобына өту батырмасын қосу",
     "fa_show_message_details": "Хабарлама мәліметтері",
     "fa_show_message_details_desc": "Хабарламалар үшін метадеректер мен техникалық мәліметтерді көрсету",
     "fa_add_comma_after_mention": "Атап өткеннен кейін үтір қою",
     "fa_add_comma_after_mention_desc": "Пайдаланушыны атап өткеннен кейін үтір енгізу",
+    "fa_disable_link_preview": "Сілтемені алдын ала қарауды өшіру",
+    "fa_disable_link_preview_desc": "Сілтемелерді жіберген кезде сілтемені алдын ала қарауды әдепкі бойынша өшіру",
     "fa_delete_for_everyone": "Әдепкі бойынша «Барлығынан өшіру»",
     "fa_delete_for_everyone_desc": "Хабарламаларды өшірген кезде «Барлығынан өшіру» таңдалып тұрады",
     "fa_last_seen_timestamp": "Дәл оффлайн уақыты",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Басқаларға профилімде көрсету",
     "fa_lastfm_show_on_profile_desc": "Басқалар не тыңдап жатқаныңызды көруі үшін профиль сипаттамасына #np:username қосады",
     "fa_lastfm_now_playing": "Қазір ойнатылуда",
-    "fa_lastfm_scrobbling": "Last.fm арқылы скробблинг"
+    "fa_lastfm_scrobbling": "Last.fm арқылы скробблинг",
+    "fa_members_filter": "Қатысушылар сүзгісі",
+    "fa_members_filter_all": "Барлығы",
+    "fa_members_filter_admins": "Әкімшілер",
+    "fa_members_filter_bots": "Боттар",
+    "fa_members_filter_deleted": "Жойылған аккаунттар"
 }

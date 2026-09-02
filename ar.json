@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "إخفاء أزرار Web App في قائمة المحادثات",
     "fa_hide_all_chats_folder": "إخفاء مجلد «كل المحادثات»",
     "fa_hide_all_chats_folder_desc": "إخفاء تبويب «كل المحادثات» من قائمة المجلدات",
+    "fa_hide_archived_chats": "إخفاء المحادثات المؤرشفة",
+    "fa_hide_archived_chats_desc": "نقل المحادثات المؤرشفة إلى القائمة الجانبية",
     "fa_show_discuss_button": "إظهار زر المناقشة",
     "fa_show_discuss_button_desc": "إضافة زر في القنوات للانتقال لمجموعة المناقشة",
     "fa_show_message_details": "تفاصيل الرسالة",
     "fa_show_message_details_desc": "إظهار البيانات والبيانات الوصفية التقنية للرسائل",
     "fa_add_comma_after_mention": "فاصلة بعد الإشارة",
     "fa_add_comma_after_mention_desc": "إدراج فاصلة تلقائياً بعد الإشارة إلى مستخدم",
+    "fa_disable_link_preview": "تعطيل معاينة الروابط",
+    "fa_disable_link_preview_desc": "تعطيل معاينات الروابط افتراضياً عند إرسال الروابط",
     "fa_delete_for_everyone": "«الحذف للجميع» افتراضياً",
     "fa_delete_for_everyone_desc": "تحديد خيار «الحذف للجميع» مسبقاً عند حذف الرسائل",
     "fa_last_seen_timestamp": "الوقت الدقيق للغياب",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "إظهار في ملفي الشخصي للآخرين",
     "fa_lastfm_show_on_profile_desc": "يضيف #np:username إلى نبذتك التعريفية ليتمكن الآخرون من معرفة ما تستمع إليه",
     "fa_lastfm_now_playing": "يتم تشغيله الآن",
-    "fa_lastfm_scrobbling": "تسجيل الاستماع عبر Last.fm"
+    "fa_lastfm_scrobbling": "تسجيل الاستماع عبر Last.fm",
+    "fa_members_filter": "تصفية الأعضاء",
+    "fa_members_filter_all": "الكل",
+    "fa_members_filter_admins": "المشرفون",
+    "fa_members_filter_bots": "البوتات",
+    "fa_members_filter_deleted": "الحسابات المحذوفة"
 }

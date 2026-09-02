@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Web-App-Buttons in der Chatliste verbergen",
     "fa_hide_all_chats_folder": "Ordner «Alle Chats» ausblenden",
     "fa_hide_all_chats_folder_desc": "Tab «Alle Chats» in der Ordnerleiste ausblenden",
+    "fa_hide_archived_chats": "Archivierte Chats ausblenden",
+    "fa_hide_archived_chats_desc": "Verschiebt archivierte Chats in das Hauptmenü",
     "fa_show_discuss_button": "Diskussion-Button anzeigen",
     "fa_show_discuss_button_desc": "In Kanälen Button zur Diskussionsgruppe hinzufügen",
     "fa_show_message_details": "Nachrichtendetails anzeigen",
     "fa_show_message_details_desc": "Metadaten und technische Details für Nachrichten anzeigen",
     "fa_add_comma_after_mention": "Komma nach Erwähnung",
     "fa_add_comma_after_mention_desc": "Nach Erwähnung eines Nutzers ein Komma einfügen",
+    "fa_disable_link_preview": "Link-Vorschau deaktivieren",
+    "fa_disable_link_preview_desc": "Link-Vorschau beim Senden von Links standardmäßig deaktivieren",
     "fa_delete_for_everyone": "«Für alle löschen» standardmäßig aktivieren",
     "fa_delete_for_everyone_desc": "«Für alle löschen» beim Löschen standardmäßig auswählen",
     "fa_last_seen_timestamp": "Exakter Offline-Zeitstempel",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Auf meinem Profil für andere anzeigen",
     "fa_lastfm_show_on_profile_desc": "Fügt #np:username zu deiner Biografie hinzu, damit andere sehen, was du gerade hörst",
     "fa_lastfm_now_playing": "Aktuelle Wiedergabe",
-    "fa_lastfm_scrobbling": "Scrobbeln über Last.fm"
+    "fa_lastfm_scrobbling": "Scrobbeln über Last.fm",
+    "fa_members_filter": "Mitgliederfilter",
+    "fa_members_filter_all": "Alle",
+    "fa_members_filter_admins": "Administratoren",
+    "fa_members_filter_bots": "Bots",
+    "fa_members_filter_deleted": "Gelöschte Konten"
 }

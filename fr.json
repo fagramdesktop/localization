@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Masquer les boutons Web App dans la liste des échanges",
     "fa_hide_all_chats_folder": "Masquer le dossier « Tous les échanges »",
     "fa_hide_all_chats_folder_desc": "Masquer l'onglet « Tous les échanges » de la liste des dossiers",
+    "fa_hide_archived_chats": "Masquer les échanges archivés",
+    "fa_hide_archived_chats_desc": "Déplace les échanges archivés dans le menu latéral",
     "fa_show_discuss_button": "Bouton de discussion",
     "fa_show_discuss_button_desc": "Ajouter un bouton dans les canaux pour rejoindre le groupe de discussion",
     "fa_show_message_details": "Détails du message",
     "fa_show_message_details_desc": "Afficher les métadonnées et détails techniques des messages",
     "fa_add_comma_after_mention": "Virgule après mention",
     "fa_add_comma_after_mention_desc": "Insérer une virgule après avoir mentionné un utilisateur",
+    "fa_disable_link_preview": "Désactiver l'aperçu des liens",
+    "fa_disable_link_preview_desc": "Désactiver l'aperçu des liens par défaut lors de l'envoi de liens",
     "fa_delete_for_everyone": "« Supprimer pour tous » par défaut",
     "fa_delete_for_everyone_desc": "Pré-sélectionner « Supprimer pour tous » lors de la suppression",
     "fa_last_seen_timestamp": "Horodatage hors ligne exact",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Afficher sur mon profil pour les autres",
     "fa_lastfm_show_on_profile_desc": "Ajoute #np:username à votre bio pour que les autres puissent voir ce que vous écoutez",
     "fa_lastfm_now_playing": "En cours de lecture",
-    "fa_lastfm_scrobbling": "Scrobbling via Last.fm"
+    "fa_lastfm_scrobbling": "Scrobbling via Last.fm",
+    "fa_members_filter": "Filtre des membres",
+    "fa_members_filter_all": "Tous",
+    "fa_members_filter_admins": "Administrateurs",
+    "fa_members_filter_bots": "Bots",
+    "fa_members_filter_deleted": "Comptes supprimés"
 }

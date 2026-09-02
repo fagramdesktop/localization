@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Ocultar botões de Web App na lista de chats",
     "fa_hide_all_chats_folder": "Ocultar pasta «Todos os chats»",
     "fa_hide_all_chats_folder_desc": "Ocultar a aba «Todos os chats» da lista de pastas",
+    "fa_hide_archived_chats": "Ocultar chats arquivados",
+    "fa_hide_archived_chats_desc": "Move os chats arquivados para o menu lateral",
     "fa_show_discuss_button": "Botão de discussão",
     "fa_show_discuss_button_desc": "Adicionar botão nos canais para ir ao grupo de discussão",
     "fa_show_message_details": "Detalhes da mensagem",
     "fa_show_message_details_desc": "Mostrar metadados e detalhes técnicos das mensagens",
     "fa_add_comma_after_mention": "Vírgula após menção",
     "fa_add_comma_after_mention_desc": "Inserir vírgula após mencionar um usuário",
+    "fa_disable_link_preview": "Desativar prévia de links",
+    "fa_disable_link_preview_desc": "Desativar prévias de links por padrão ao enviar links",
     "fa_delete_for_everyone": "«Apagar para todos» por padrão",
     "fa_delete_for_everyone_desc": "Pré-selecionar «Apagar para todos» ao apagar mensagens",
     "fa_last_seen_timestamp": "Horário exato de desconexão",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Mostrar no meu perfil para outros",
     "fa_lastfm_show_on_profile_desc": "Adiciona #np:username à sua bio para que outros possam ver o que você está ouvindo",
     "fa_lastfm_now_playing": "Tocando agora",
-    "fa_lastfm_scrobbling": "Scrobbling via Last.fm"
+    "fa_lastfm_scrobbling": "Scrobbling via Last.fm",
+    "fa_members_filter": "Filtro de membros",
+    "fa_members_filter_all": "Todos",
+    "fa_members_filter_admins": "Administradores",
+    "fa_members_filter_bots": "Bots",
+    "fa_members_filter_deleted": "Contas excluídas"
 }

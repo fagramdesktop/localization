@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Ocultar botões de Web App na lista de conversas",
     "fa_hide_all_chats_folder": "Ocultar pasta «Todas as conversas»",
     "fa_hide_all_chats_folder_desc": "Ocultar o separador «Todas as conversas» da lista de pastas",
+    "fa_hide_archived_chats": "Ocultar conversas arquivadas",
+    "fa_hide_archived_chats_desc": "Move as conversas arquivadas para o menu lateral",
     "fa_show_discuss_button": "Botão de discussão",
     "fa_show_discuss_button_desc": "Adicionar botão nos canais para ir ao grupo de discussão",
     "fa_show_message_details": "Detalhes da mensagem",
     "fa_show_message_details_desc": "Mostrar metadados e detalhes técnicos das mensagens",
     "fa_add_comma_after_mention": "Vírgula após menção",
     "fa_add_comma_after_mention_desc": "Inserir uma vírgula após mencionar um utilizador",
+    "fa_disable_link_preview": "Desativar pré-visualização de ligações",
+    "fa_disable_link_preview_desc": "Desativar pré-visualização de ligações por defeito ao enviar ligações",
     "fa_delete_for_everyone": "«Apagar para todos» por defeito",
     "fa_delete_for_everyone_desc": "Pré-selecionar «Apagar para todos» ao eliminar mensagens",
     "fa_last_seen_timestamp": "Hora exata de desconexão",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Mostrar no meu perfil para os outros",
     "fa_lastfm_show_on_profile_desc": "Adiciona #np:username à tua biografia para que os outros possam ver o que estás a ouvir",
     "fa_lastfm_now_playing": "A reproduzir",
-    "fa_lastfm_scrobbling": "A fazer scrobble via Last.fm"
+    "fa_lastfm_scrobbling": "A fazer scrobble via Last.fm",
+    "fa_members_filter": "Filtro de membros",
+    "fa_members_filter_all": "Todos",
+    "fa_members_filter_admins": "Administradores",
+    "fa_members_filter_bots": "Bots",
+    "fa_members_filter_deleted": "Contas eliminadas"
 }

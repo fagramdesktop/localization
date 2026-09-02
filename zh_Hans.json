@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "在聊天列表中隐藏小程序按钮",
     "fa_hide_all_chats_folder": "隐藏“所有聊天”分组",
     "fa_hide_all_chats_folder_desc": "从分组列表中隐藏“所有聊天”标签页",
+    "fa_hide_archived_chats": "隐藏已归档聊天",
+    "fa_hide_archived_chats_desc": "将已归档聊天移至抽屉菜单",
     "fa_show_discuss_button": "显示讨论按钮",
     "fa_show_discuss_button_desc": "在频道中添加跳转到讨论群组的按钮",
     "fa_show_message_details": "显示消息详情",
     "fa_show_message_details_desc": "显示消息元数据与技术详情",
     "fa_add_comma_after_mention": "提及后添加逗号",
     "fa_add_comma_after_mention_desc": "提及用户名后自动插入逗号",
+    "fa_disable_link_preview": "禁用链接预览",
+    "fa_disable_link_preview_desc": "发送链接时默认禁用链接预览",
     "fa_delete_for_everyone": "默认勾选“为所有人删除”",
     "fa_delete_for_everyone_desc": "删除消息时预先勾选“为所有人删除”",
     "fa_last_seen_timestamp": "精确离线时间戳",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "在个人资料中向他人显示",
     "fa_lastfm_show_on_profile_desc": "在个人简介中追加 #np:username，以便他人查看您正在播放的内容",
     "fa_lastfm_now_playing": "正在播放",
-    "fa_lastfm_scrobbling": "通过 Last.fm 记录听歌历史"
+    "fa_lastfm_scrobbling": "通过 Last.fm 记录听歌历史",
+    "fa_members_filter": "成员筛选",
+    "fa_members_filter_all": "全部",
+    "fa_members_filter_admins": "管理员",
+    "fa_members_filter_bots": "机器人",
+    "fa_members_filter_deleted": "已注销账号"
 }

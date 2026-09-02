@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Web App gombok elrejtése a csevegéslistában",
     "fa_hide_all_chats_folder": "«Összes csevegés» mappa elrejtése",
     "fa_hide_all_chats_folder_desc": "Az «Összes csevegés» fül elrejtése a mappák közül",
+    "fa_hide_archived_chats": "Archivált csevegések elrejtése",
+    "fa_hide_archived_chats_desc": "Az archivált csevegéseket az oldalmenübe helyezi",
     "fa_show_discuss_button": "Beszélgetés gomb megjelenítése",
     "fa_show_discuss_button_desc": "Gomb hozzáadása a csatornákhoz a vitacsoporthoz ugráshoz",
     "fa_show_message_details": "Üzenet részletei",
     "fa_show_message_details_desc": "Metaadatok és technikai részletek megjelenítése üzeneteknél",
     "fa_add_comma_after_mention": "Vessző az említés után",
     "fa_add_comma_after_mention_desc": "Vessző automatikus beszúrása felhasználó említése után",
+    "fa_disable_link_preview": "Hivatkozás-előnézet letiltása",
+    "fa_disable_link_preview_desc": "Hivatkozás-előnézetek alapértelmezett letiltása linkek küldésekor",
     "fa_delete_for_everyone": "«Törlés mindenkinek» alapértelmezett",
     "fa_delete_for_everyone_desc": "A «Törlés mindenkinek» előzetes kijelölése törléskor",
     "fa_last_seen_timestamp": "Pontos offline időpont",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Megjelenítés a profilomon mások számára",
     "fa_lastfm_show_on_profile_desc": "A #np:felhasználónév hozzáadása a leírásodhoz, hogy mások is láthassák, mit hallgatsz",
     "fa_lastfm_now_playing": "Most játszott",
-    "fa_lastfm_scrobbling": "Scrobbling a Last.fm-en keresztül"
+    "fa_lastfm_scrobbling": "Scrobbling a Last.fm-en keresztül",
+    "fa_members_filter": "Tagok szűrése",
+    "fa_members_filter_all": "Összes",
+    "fa_members_filter_admins": "Adminisztrátorok",
+    "fa_members_filter_bots": "Botok",
+    "fa_members_filter_deleted": "Törölt fiókok"
 }

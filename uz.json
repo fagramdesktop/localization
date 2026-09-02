@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Chatlar ro'yxatida Web App tugmalarini yashirish",
     "fa_hide_all_chats_folder": "«Barcha chatlar» jildini yashirish",
     "fa_hide_all_chats_folder_desc": "Jildlar ro'yxatidan «Barcha chatlar» ruknini yashirish",
+    "fa_hide_archived_chats": "Arxivlangan chatlarni yashirish",
+    "fa_hide_archived_chats_desc": "Arxivlangan chatlarni yon menyuga ko'chiradi",
     "fa_show_discuss_button": "Muhokama tugmasini ko'rsatish",
     "fa_show_discuss_button_desc": "Kanallarda muhokama guruhiga o'tish tugmasini qo'shish",
     "fa_show_message_details": "Xabar tafsilotlari",
     "fa_show_message_details_desc": "Xabarlar uchun metama'lumotlar va texnik tafsilotlarni ko'rsatish",
     "fa_add_comma_after_mention": "Belgilashdan keyin vergul",
     "fa_add_comma_after_mention_desc": "Foydalanuvchini belgilagandan so'ng vergul qo'yish",
+    "fa_disable_link_preview": "Havolalarni oldindan ko'rishni o'chirish",
+    "fa_disable_link_preview_desc": "Havolalar yuborilganda havolalarni oldindan ko'rishni sukut bo'yicha o'chirish",
     "fa_delete_for_everyone": "Odatiy «Hammadan o'chirish»",
     "fa_delete_for_everyone_desc": "Xabarlarni o'chirishda «Hammadan o'chirish» bandini avvaldan tanlash",
     "fa_last_seen_timestamp": "Aniq oflayn vaqti",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Boshqalar uchun profilimda ko'rsatish",
     "fa_lastfm_show_on_profile_desc": "Boshqalar nima tinglayotganingizni ko'rishi uchun profilingiz tavsifiga #np:username qo'shadi",
     "fa_lastfm_now_playing": "Hozir ijro etilmoqda",
-    "fa_lastfm_scrobbling": "Last.fm orqali skrobbling"
+    "fa_lastfm_scrobbling": "Last.fm orqali skrobbling",
+    "fa_members_filter": "A'zolar filtri",
+    "fa_members_filter_all": "Barchasi",
+    "fa_members_filter_admins": "Administratorlar",
+    "fa_members_filter_bots": "Botlar",
+    "fa_members_filter_deleted": "O'chirilgan hisoblar"
 }

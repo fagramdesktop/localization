@@ -45,12 +45,16 @@
     "fa_hide_open_webapp_button_chatlist_desc": "Nascondi i pulsanti Web App nella lista chat",
     "fa_hide_all_chats_folder": "Nascondi cartella «Tutte le chat»",
     "fa_hide_all_chats_folder_desc": "Nascondi la scheda «Tutte le chat» dall'elenco cartelle",
+    "fa_hide_archived_chats": "Nascondi chat archiviate",
+    "fa_hide_archived_chats_desc": "Sposta le chat archiviate nel menu laterale",
     "fa_show_discuss_button": "Pulsante di discussione",
     "fa_show_discuss_button_desc": "Aggiungi un pulsante nei canali per passare al gruppo di discussione",
     "fa_show_message_details": "Dettagli del messaggio",
     "fa_show_message_details_desc": "Mostra metadati e dettagli tecnici dei messaggi",
     "fa_add_comma_after_mention": "Virgola dopo menzione",
     "fa_add_comma_after_mention_desc": "Inserisci una virgola dopo aver menzionato un utente",
+    "fa_disable_link_preview": "Disattiva anteprima dei link",
+    "fa_disable_link_preview_desc": "Disattiva l'anteprima dei link per impostazione predefinita quando invii link",
     "fa_delete_for_everyone": "«Elimina per tutti» predefinito",
     "fa_delete_for_everyone_desc": "Pre-seleziona «Elimina per tutti» quando cancelli messaggi",
     "fa_last_seen_timestamp": "Orario esatto di disconnessione",
@@ -168,5 +172,10 @@
     "fa_lastfm_show_on_profile": "Mostra sul mio profilo per gli altri",
     "fa_lastfm_show_on_profile_desc": "Aggiunge #np:username alla tua biografia per permettere agli altri di vedere cosa stai ascoltando",
     "fa_lastfm_now_playing": "In riproduzione",
-    "fa_lastfm_scrobbling": "Scrobbling tramite Last.fm"
+    "fa_lastfm_scrobbling": "Scrobbling tramite Last.fm",
+    "fa_members_filter": "Filtro membri",
+    "fa_members_filter_all": "Tutti",
+    "fa_members_filter_admins": "Amministratori",
+    "fa_members_filter_bots": "Bot",
+    "fa_members_filter_deleted": "Account eliminati"
 }
