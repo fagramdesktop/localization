@@ -180,15 +180,9 @@
     "fa_members_filter_admins": "Administrators",
     "fa_members_filter_bots": "Bots",
     "fa_members_filter_deleted": "Deleted accounts",
-    "fa_upstream_developer_popup": "**{item}** is a member of an **upstream project** development team.",
-    "fa_upstream_supporter_popup": "**{item}** supported an upstream project's development and received a badge.",
-    "fa_upstream_official_resource_popup": "**{item}** is an official resource of an **upstream project**.",
-    "fa_fagram_developer_popup": "**{item}** is a member of the **FAgram** development team.",
-    "fa_fagram_supporter_popup": "**{item}** supported **FAgram** development and received a badge.",
-    "fa_fagram_official_resource_popup": "**{item}** is an official **FAgram** resource.",
-    "fa_upstream_official_badge": "Upstream project official badge",
-    "fa_upstream_supporter_badge": "Upstream project supporter badge",
-    "fa_upstream_custom_badge": "Upstream project custom badge",
-    "fa_fagram_official_badge": "FAgram official badge",
-    "fa_fagram_supporter_badge": "FAgram supporter badge"
+   "fa_fagram_developer_popup": "**{item}** is a member of the **FAgram** development team.",
+   "fa_fagram_supporter_popup": "**{item}** supported **FAgram** development and received a badge.",
+   "fa_fagram_official_resource_popup": "**{item}** is an official **FAgram** resource.",
+   "fa_fagram_official_badge": "FAgram official badge",
+   "fa_fagram_supporter_badge": "FAgram supporter badge"
 }
